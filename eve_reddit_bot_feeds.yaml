@@ -348,6 +348,8 @@ rss_feeds:
   csm9_mike:
     raw: false
     stories:
+    - date: 2015-01-18 13:14:27.490598
+      posturl: http://mikeazariah.wordpress.com/?p=1657
     - date: 2015-01-06 12:27:58.019913
       posturl: http://mikeazariah.wordpress.com/?p=1651
     - date: 2014-12-12 11:26:57.905465
@@ -430,6 +432,8 @@ rss_feeds:
   csm9_sugar:
     raw: false
     stories:
+    - date: 2015-01-11 18:04:09.765117
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-3516211115188176592
     - date: 2015-01-04 18:05:13.663012
       posturl: tag:blogger.com,1999:blog-238324579504790.post-3990981181217307045
     - date: 2014-12-28 18:03:34.834157
@@ -518,6 +522,12 @@ rss_feeds:
   csm9_xander:
     raw: false
     stories:
+    - date: 2015-01-21 20:35:55.011131
+      posturl: http://crossingzebras.com/?p=4798
+    - date: 2015-01-16 09:12:24.701851
+      posturl: http://crossingzebras.com/?p=4756
+    - date: 2015-01-14 09:49:00.537388
+      posturl: http://crossingzebras.com/?p=4719
     - date: 2015-01-06 16:28:36.072803
       posturl: http://crossingzebras.com/?p=4674
     - date: 2014-12-30 05:42:15.522333
@@ -606,6 +616,14 @@ rss_feeds:
   dev_blogs:
     raw: false
     stories:
+    - date: 2015-01-21 02:42:30.974151
+      posturl: http://community.eveonline.com/news/dev-blogs/a-glimpse-into-the-future-of-ship-skins/
+    - date: 2015-01-21 00:40:00.554783
+      posturl: http://community.eveonline.com/news/dev-blogs/the-republic-strikes-back-the-svipul-tactical-destroyer-and-projectile-changes-in-tiamat/
+    - date: 2015-01-15 02:47:56.484535
+      posturl: http://community.eveonline.com/news/dev-blogs/csm-9-review/
+    - date: 2015-01-10 01:24:28.597160
+      posturl: http://community.eveonline.com/news/dev-blogs/oh-seven-player-submissions/
     - date: 2014-12-24 00:48:13.648593
       posturl: http://community.eveonline.com/news/dev-blogs/rebalancing-modules-round-two/
     - date: 2014-12-23 01:06:35.297292
@@ -900,6 +918,14 @@ rss_feeds:
   dust514_status:
     raw: true
     stories:
+    - date: 2015-01-23 01:29:38.672876
+      posturl: http://www.rssitfor.me/DUST514_Status/status/558265520831881218
+    - date: 2015-01-15 14:14:16.916190
+      posturl: http://www.rssitfor.me/DUST514_Status/status/555547213511016449
+    - date: 2015-01-13 04:55:46.614494
+      posturl: http://www.rssitfor.me/DUST514_Status/status/554670285103058944
+    - date: 2015-01-09 17:47:26.341978
+      posturl: http://www.rssitfor.me/CCP_Help/status/553453365875990529
     - date: 2014-12-24 13:44:02.840904
       posturl: http://www.rssitfor.me/DUST514_Status/status/547540361238020097
     - date: 2014-12-24 13:37:19.290580
@@ -1236,6 +1262,10 @@ rss_feeds:
   dust_featured_promotions:
     raw: false
     stories:
+    - date: 2015-01-20 12:51:20.832811
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2215027
+    - date: 2015-01-13 17:44:24.808428
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2203979
     - date: 2015-01-05 22:41:01.512229
       posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2191614
     - date: 2014-12-23 18:22:56.383183
@@ -1372,6 +1402,8 @@ rss_feeds:
   dust_news:
     raw: false
     stories:
+    - date: 2015-01-13 12:46:29.753832
+      posturl: http://dust514.com/news/2015/01/new-dust-514-wallpaper-4/
     - date: 2014-12-18 14:50:14.521305
       posturl: http://dust514.com/news/2014/12/announcing-12-days-of-dust/
     - date: 2014-12-17 13:50:33.598095
@@ -1564,6 +1596,8 @@ rss_feeds:
   eve_dev:
     raw: false
     stories:
+    - date: 2015-01-10 00:22:07.640110
+      posturl: http://developers.eveonline.com/blog/article/a-quick-update-to-market-orders/
     - date: 2014-12-10 01:24:32.673528
       posturl: http://developers.eveonline.com/blog/article/december-2014-third-party-developer-update/
     - date: 2014-11-21 01:09:19.081138
@@ -1608,6 +1642,34 @@ rss_feeds:
   eve_news:
     raw: false
     stories:
+    - date: 2015-01-25 04:37:53.722690
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/csm-winter-summit-minutes-day-four/
+    - date: 2015-01-24 05:25:35.527557
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/csm-winter-summit-minutes-day-three/
+    - date: 2015-01-23 04:39:04.664460
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/csm-winter-summit-minutes-day-two/
+    - date: 2015-01-22 04:12:12.991277
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/csm-winter-summit-day-one/
+    - date: 2015-01-21 22:17:25.701771
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/eve_nt-nottingham-february-7/
+    - date: 2015-01-21 04:29:37.730239
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/account-management-maintenance-january-21st/
+    - date: 2015-01-20 04:35:06.799510
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/account-management-maintenance/
+    - date: 2015-01-17 03:39:01.009780
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/eve-valkyrie-at-pax-south/
+    - date: 2015-01-17 01:50:07.753839
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/first-fanfest-ship-has-landed/
+    - date: 2015-01-17 00:33:46.774272
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/o7-episode-4-now-on-youtube/
+    - date: 2015-01-13 23:33:10.429207
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/o7-airs-this-thursday/
+    - date: 2015-01-13 21:54:37.069901
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/proteus-has-been-successfully-deployed/
+    - date: 2015-01-09 23:34:58.145944
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/proteus-release-january-13/
+    - date: 2015-01-09 21:11:23.482951
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/fanfest-2015-schedule-shakeup-have-your-say/
     - date: 2015-01-05 21:41:24.625687
       posturl: http://community.eveonline.com/news/news-channels/eve-online-news/join-the-mass-test-on-tuesday-january-6th/
     - date: 2014-12-31 01:44:19.302269
@@ -2020,6 +2082,10 @@ rss_feeds:
   eve_status:
     raw: true
     stories:
+    - date: 2015-01-23 01:46:51.060350
+      posturl: http://www.rssitfor.me/EVE_status/status/558265520596983808
+    - date: 2015-01-13 02:39:04.462576
+      posturl: http://www.rssitfor.me/EVE_status/status/554638139533586434
     - date: 2014-12-24 10:29:08.573808
       posturl: http://www.rssitfor.me/EVE_status/status/547540361233858561
     - date: 2014-12-20 01:14:16.522092
@@ -2206,6 +2272,16 @@ rss_feeds:
   eve_youtube:
     raw: false
     stories:
+    - date: 2015-01-22 02:18:40.857660
+      posturl: tag:youtube.com,2008:video:QbolunTRNSE
+    - date: 2015-01-22 02:13:19.296762
+      posturl: tag:youtube.com,2008:video:1zXxXuQdHHo
+    - date: 2015-01-22 02:07:56.822005
+      posturl: tag:youtube.com,2008:video:2SbicJJRIdc
+    - date: 2015-01-17 00:22:50.862900
+      posturl: tag:youtube.com,2008:video:dBS1nauK3W0
+    - date: 2015-01-12 09:29:23.107020
+      posturl: tag:youtube.com,2008:video:R1fCJUiYXRw
     - date: 2015-01-07 01:51:59.937366
       posturl: tag:youtube.com,2008:video:nVWC6I-FLEA
     - date: 2014-12-13 02:47:15.651434
@@ -2624,6 +2700,10 @@ rss_feeds:
   game_news:
     raw: false
     stories:
+    - date: 2015-01-24 02:48:31.095728
+      posturl: http://community.eveonline.com/news/news-channels/world-news/gallente-presidential-election-enters-advance-voting-stage/
+    - date: 2015-01-13 05:23:26.014899
+      posturl: http://community.eveonline.com/news/news-channels/world-news/circadian-seekers-ded-advisory/
     - date: 2014-12-13 04:35:52.875877
       posturl: http://community.eveonline.com/news/news-channels/world-news/concord-inner-circle-statement-on-carolines-star-and-the-thera-system/
     - date: 2014-12-09 21:03:47.379749
@@ -2732,6 +2812,18 @@ rss_feeds:
   now:
     raw: false
     stories:
+    - date: 2015-01-24 03:28:18.410229
+      posturl: http://now.eveonline.com/post/108921821698
+    - date: 2015-01-21 06:49:22.161555
+      posturl: http://now.eveonline.com/post/108652150218
+    - date: 2015-01-21 02:48:35.090534
+      posturl: http://now.eveonline.com/post/108647530808
+    - date: 2015-01-16 09:24:48.056290
+      posturl: http://now.eveonline.com/post/108192968063
+    - date: 2015-01-15 04:58:44.939083
+      posturl: http://now.eveonline.com/post/108091485623
+    - date: 2015-01-13 08:28:49.626755
+      posturl: http://now.eveonline.com/post/107918602743
     - date: 2014-12-24 02:29:01.924353
       posturl: http://now.eveonline.com/post/105957744273
     - date: 2014-12-24 02:22:25.158409
@@ -2826,6 +2918,8 @@ rss_feeds:
   patch_notes:
     raw: false
     stories:
+    - date: 2015-01-09 23:23:42.944046
+      posturl: http://community.eveonline.com/news/patch-notes/patch-notes-for-proteus/
     - date: 2014-12-06 03:00:25.544947
       posturl: http://community.eveonline.com/news/patch-notes/patch-notes-for-rhea/
     - date: 2014-10-31 02:18:27.137784
