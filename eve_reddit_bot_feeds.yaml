@@ -278,6 +278,14 @@ rss_feeds:
   csm9_bacon:
     raw: false
     stories:
+    - date: 2015-02-08 12:01:24.587228
+      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-757280248871672549
+    - date: 2015-02-02 20:35:16.033458
+      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-424884142056701899
+    - date: 2015-02-02 03:32:06.611725
+      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-670879269157173031
+    - date: 2015-02-01 23:56:42.243243
+      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-5881003578437479856
     - date: 2014-11-12 08:02:49.068854
       posturl: tag:blogger.com,1999:blog-1490340916886486838.post-5719659935285006916
     - date: 2014-11-11 04:05:55.782571
@@ -308,6 +316,12 @@ rss_feeds:
   csm9_corbexx:
     raw: false
     stories:
+    - date: 2015-02-25 21:26:56.260871
+      posturl: tag:blogger.com,1999:blog-3313686641816452828.post-754769113905784416
+    - date: 2015-02-12 07:30:31.408101
+      posturl: tag:blogger.com,1999:blog-3313686641816452828.post-5835730406674115985
+    - date: 2015-02-06 22:47:50.812970
+      posturl: tag:blogger.com,1999:blog-3313686641816452828.post-4716961285717798534
     - date: 2014-11-24 22:17:31.929848
       posturl: tag:blogger.com,1999:blog-3313686641816452828.post-9183358796644229659
     - date: 2014-11-22 01:25:27.834259
@@ -432,6 +446,14 @@ rss_feeds:
   csm9_sugar:
     raw: false
     stories:
+    - date: 2015-02-22 18:02:10.188257
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-3610699208491849078
+    - date: 2015-02-09 02:58:14.287889
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-7722158536555296816
+    - date: 2015-02-01 18:00:33.808246
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-2113361253442972095
+    - date: 2015-01-30 02:27:59.385971
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-5154145658967523455
     - date: 2015-01-11 18:04:09.765117
       posturl: tag:blogger.com,1999:blog-238324579504790.post-3516211115188176592
     - date: 2015-01-04 18:05:13.663012
@@ -522,6 +544,14 @@ rss_feeds:
   csm9_xander:
     raw: false
     stories:
+    - date: 2015-02-22 04:57:06.331516
+      posturl: http://crossingzebras.com/?p=5149
+    - date: 2015-02-11 03:17:02.441997
+      posturl: http://crossingzebras.com/?p=5067
+    - date: 2015-02-08 06:18:38.007883
+      posturl: http://crossingzebras.com/?p=5029
+    - date: 2015-01-30 09:52:02.774611
+      posturl: http://crossingzebras.com/?p=4954
     - date: 2015-01-21 20:35:55.011131
       posturl: http://crossingzebras.com/?p=4798
     - date: 2015-01-16 09:12:24.701851
@@ -616,6 +646,38 @@ rss_feeds:
   dev_blogs:
     raw: false
     stories:
+    - date: 2015-03-06 01:38:50.006221
+      posturl: http://community.eveonline.com/news/dev-blogs/a-call-to-art-decorating-the-ccp-office/
+    - date: 2015-03-04 01:13:32.085366
+      posturl: http://community.eveonline.com/news/dev-blogs/politics-by-other-means/
+    - date: 2015-03-04 01:08:02.206203
+      posturl: http://community.eveonline.com/news/dev-blogs/where-we-stand/
+    - date: 2015-03-03 01:36:13.512333
+      posturl: http://community.eveonline.com/news/dev-blogs/drifting-in-and-out-of-destruction/
+    - date: 2015-02-28 00:56:24.482828
+      posturl: http://community.eveonline.com/news/dev-blogs/balance-changes-coming-in-scylla/
+    - date: 2015-02-27 07:04:45.780213
+      posturl: http://community.eveonline.com/news/dev-blogs/ui-modernization-icon-strategy/
+    - date: 2015-02-27 02:08:15.725047
+      posturl: http://community.eveonline.com/news/dev-blogs/i-put-on-my-robe-and-wizard-hat-cosplay-at-fanfest-2015/
+    - date: 2015-02-26 01:04:37.120404
+      posturl: http://community.eveonline.com/news/dev-blogs/download-on-demand-is-coming-to-singularity/
+    - date: 2015-02-20 02:05:31.205530
+      posturl: http://community.eveonline.com/news/dev-blogs/we-want-you-on-eve-tv-at-fanfest/
+    - date: 2015-02-20 01:06:44.885991
+      posturl: http://community.eveonline.com/news/dev-blogs/opportunities-abound-the-new-player-experience/
+    - date: 2015-02-19 01:06:18.329228
+      posturl: http://community.eveonline.com/news/dev-blogs/in-celebration-of-csm-x/
+    - date: 2015-02-14 01:03:55.887006
+      posturl: http://community.eveonline.com/news/dev-blogs/fanfest-2015-worlds-collide/
+    - date: 2015-02-10 01:04:55.851273
+      posturl: http://community.eveonline.com/news/dev-blogs/corp-little-things-friendly-fire-control/
+    - date: 2015-02-07 01:13:53.832732
+      posturl: http://community.eveonline.com/news/dev-blogs/fanfest-2015-silent-auction-servers-t-shirts-guns..-oh-my/
+    - date: 2015-01-30 21:32:38.725262
+      posturl: http://community.eveonline.com/news/dev-blogs/csm-x-candidacy-now-open/
+    - date: 2015-01-29 01:51:23.701598
+      posturl: http://community.eveonline.com/news/dev-blogs/coming-to-eve-in-tiamat/
     - date: 2015-01-21 02:42:30.974151
       posturl: http://community.eveonline.com/news/dev-blogs/a-glimpse-into-the-future-of-ship-skins/
     - date: 2015-01-21 00:40:00.554783
@@ -918,192 +980,238 @@ rss_feeds:
   dust514_status:
     raw: true
     stories:
+    - date: 2015-03-08 22:45:59.662533
+      posturl: https://twitter.com/CCP_Frame/status/563576246563774464
+    - date: 2015-03-08 22:38:57.310674
+      posturl: https://twitter.com/CCP_Frame/status/563648443378573312
+    - date: 2015-03-08 22:31:55.481378
+      posturl: https://twitter.com/CCP_Help/status/569813592301834240
+    - date: 2015-03-08 22:24:55.054457
+      posturl: https://twitter.com/DUST514_Status/status/572687750417260544
+    - date: 2015-03-08 21:54:37.359302
+      posturl: https://twitter.com/DUST514_Status/status/570583967625302017
+    - date: 2015-03-08 21:51:38.343622
+      posturl: https://twitter.com/DUST514_Status/status/570610430932099073
+    - date: 2015-03-08 21:45:48.010144
+      posturl: https://twitter.com/DUST514_Status/status/570900306210504704
+    - date: 2015-02-26 21:06:04.212881
+      posturl: https://twitter.com/DUST514_Status/status/570900306210504704
+    - date: 2015-02-26 02:12:55.035523
+      posturl: https://twitter.com/DUST514_Status/status/570543592013479936
+    - date: 2015-02-26 02:07:28.628056
+      posturl: https://twitter.com/DUST514_Status/status/570552866622058496
+    - date: 2015-02-26 02:01:55.400992
+      posturl: https://twitter.com/DUST514_Status/status/570583967625302017
+    - date: 2015-02-26 01:56:31.162967
+      posturl: https://twitter.com/DUST514_Status/status/570610430932099073
+    - date: 2015-02-24 23:16:15.693558
+      posturl: https://twitter.com/DUST514_Status/status/570163455875010560
+    - date: 2015-02-23 22:03:56.817286
+      posturl: http://www.rssitfor.me/CCP_Help/status/569813592301834240
+    - date: 2015-02-20 23:47:34.961351
+      posturl: https://twitter.com/DUST514_Status/status/568750732037525505
+    - date: 2015-02-16 17:03:33.821117
+      posturl: https://twitter.com/DUST514_Status/status/567193570063691778
+    - date: 2015-02-15 20:27:36.624172
+      posturl: https://twitter.com/DUST514_Status/status/566882301741903873
+    - date: 2015-02-12 21:40:06.814027
+      posturl: https://twitter.com/DUST514_Status/status/565801691304693760
+    - date: 2015-02-10 18:26:49.123040
+      posturl: https://twitter.com/DUST514_Status/status/565031635067101184
+    - date: 2015-02-07 00:57:59.152950
+      posturl: http://www.rssitfor.me/CCP_Frame/status/563648443378573312
+    - date: 2015-02-06 16:30:12.200613
+      posturl: http://www.rssitfor.me/CCP_Frame/status/563576246563774464
+    - date: 2015-02-03 22:48:39.911077
+      posturl: https://twitter.com/DUST514_Status/status/562583546624499712
+    - date: 2015-02-03 16:47:06.932649
+      posturl: https://twitter.com/DUST514_Status/status/562490034440634368
     - date: 2015-01-23 01:29:38.672876
-      posturl: http://www.rssitfor.me/DUST514_Status/status/558265520831881218
+      posturl: https://twitter.com/DUST514_Status/status/558265520831881218
     - date: 2015-01-15 14:14:16.916190
-      posturl: http://www.rssitfor.me/DUST514_Status/status/555547213511016449
+      posturl: https://twitter.com/DUST514_Status/status/555547213511016449
     - date: 2015-01-13 04:55:46.614494
-      posturl: http://www.rssitfor.me/DUST514_Status/status/554670285103058944
+      posturl: https://twitter.com/DUST514_Status/status/554670285103058944
     - date: 2015-01-09 17:47:26.341978
       posturl: http://www.rssitfor.me/CCP_Help/status/553453365875990529
     - date: 2014-12-24 13:44:02.840904
-      posturl: http://www.rssitfor.me/DUST514_Status/status/547540361238020097
+      posturl: https://twitter.com/DUST514_Status/status/547540361238020097
     - date: 2014-12-24 13:37:19.290580
-      posturl: http://www.rssitfor.me/EVE_status/status/547540361233858561
+      posturl: https://twitter.com/EVE_status/status/547540361233858561
     - date: 2014-12-22 12:49:54.851434
-      posturl: http://www.rssitfor.me/DUST514_Status/status/546841313405333504
+      posturl: https://twitter.com/DUST514_Status/status/546841313405333504
     - date: 2014-12-18 23:33:57.067799
-      posturl: http://www.rssitfor.me/DUST514_Status/status/545511413843001344
+      posturl: https://twitter.com/DUST514_Status/status/545511413843001344
     - date: 2014-12-17 20:40:39.641042
-      posturl: http://www.rssitfor.me/DUST514_Status/status/545071084228583424
+      posturl: https://twitter.com/DUST514_Status/status/545071084228583424
     - date: 2014-12-17 20:32:04.977268
-      posturl: http://www.rssitfor.me/DUST514_Status/status/545148200827772928
+      posturl: https://twitter.com/DUST514_Status/status/545148200827772928
     - date: 2014-12-17 14:06:27.154621
-      posturl: http://www.rssitfor.me/DUST514_Status/status/545039664600858625
+      posturl: https://twitter.com/DUST514_Status/status/545039664600858625
     - date: 2014-12-11 20:18:33.334308
-      posturl: http://www.rssitfor.me/DUST514_Status/status/542838412899016706
+      posturl: https://twitter.com/DUST514_Status/status/542838412899016706
     - date: 2014-12-11 20:11:37.753310
-      posturl: http://www.rssitfor.me/DUST514_Status/status/542845799353573376
+      posturl: https://twitter.com/DUST514_Status/status/542845799353573376
     - date: 2014-12-10 00:37:21.941479
       posturl: http://www.rssitfor.me/dust514/status/542281134458273792
     - date: 2014-12-08 20:59:09.830768
-      posturl: http://www.rssitfor.me/DUST514_Status/status/541868431948410880
+      posturl: https://twitter.com/DUST514_Status/status/541868431948410880
     - date: 2014-12-03 14:03:48.274557
-      posturl: http://www.rssitfor.me/DUST514_Status/status/539949310129876992
+      posturl: https://twitter.com/DUST514_Status/status/539949310129876992
     - date: 2014-12-03 13:54:28.872135
-      posturl: http://www.rssitfor.me/DUST514_Status/status/539960992051245057
+      posturl: https://twitter.com/DUST514_Status/status/539960992051245057
     - date: 2014-12-03 01:46:24.994351
       posturl: http://www.rssitfor.me/dust514/status/539797151468232704
     - date: 2014-12-02 22:37:09.459779
-      posturl: http://www.rssitfor.me/DUST514_Status/status/539742079174574080
+      posturl: https://twitter.com/DUST514_Status/status/539742079174574080
     - date: 2014-11-28 22:29:07.630280
-      posturl: http://www.rssitfor.me/DUST514_Status/status/537556150062178305
+      posturl: https://twitter.com/DUST514_Status/status/537556150062178305
     - date: 2014-11-25 23:02:58.721894
-      posturl: http://www.rssitfor.me/DUST514_Status/status/537209805786853376
+      posturl: https://twitter.com/DUST514_Status/status/537209805786853376
     - date: 2014-11-25 22:55:47.240350
-      posturl: http://www.rssitfor.me/DUST514_Status/status/537210860700467202
+      posturl: https://twitter.com/DUST514_Status/status/537210860700467202
     - date: 2014-11-19 20:14:08.254184
       posturl: http://www.rssitfor.me/CCP_Frame/status/534999423022284800
     - date: 2014-11-14 21:56:10.969805
-      posturl: http://www.rssitfor.me/DUST514_Status/status/533221006656434176
+      posturl: https://twitter.com/DUST514_Status/status/533221006656434176
     - date: 2014-11-11 22:47:22.821806
       posturl: http://www.rssitfor.me/dust514/status/532126435197333504
     - date: 2014-11-11 20:01:26.671454
       posturl: http://www.rssitfor.me/CCP_Frame/status/532093433352310784
     - date: 2014-10-31 23:22:17.260985
-      posturl: http://www.rssitfor.me/DUST514_Status/status/528137517325774848
+      posturl: https://twitter.com/DUST514_Status/status/528137517325774848
     - date: 2014-10-21 12:24:28.291204
-      posturl: http://www.rssitfor.me/DUST514_Status/status/524356086069866496
+      posturl: https://twitter.com/DUST514_Status/status/524356086069866496
     - date: 2014-10-21 12:17:55.456806
-      posturl: http://www.rssitfor.me/DUST514_Status/status/524364346638344192
+      posturl: https://twitter.com/DUST514_Status/status/524364346638344192
     - date: 2014-09-29 23:41:22.302975
       posturl: http://www.rssitfor.me/EveOnline/status/516533191893856256
     - date: 2014-09-29 23:34:47.983708
-      posturl: http://www.rssitfor.me/EVE_status/status/516533191889678336
+      posturl: https://twitter.com/EVE_status/status/516533191889678336
     - date: 2014-09-23 23:16:52.249822
       posturl: http://www.rssitfor.me/dust514/status/514390333065789440
     - date: 2014-09-23 07:15:05.832850
       posturl: http://www.rssitfor.me/dust514/status/514121960545353728
     - date: 2014-09-22 03:58:33.660626
-      posturl: http://www.rssitfor.me/DUST514_Status/status/513734124209963008
+      posturl: https://twitter.com/DUST514_Status/status/513734124209963008
     - date: 2014-09-17 23:07:12.904424
-      posturl: http://www.rssitfor.me/DUST514_Status/status/512180424077217792
+      posturl: https://twitter.com/DUST514_Status/status/512180424077217792
     - date: 2014-09-12 01:41:26.342501
-      posturl: http://www.rssitfor.me/DUST514_Status/status/510014748646440960
+      posturl: https://twitter.com/DUST514_Status/status/510014748646440960
     - date: 2014-09-10 23:46:36.288450
-      posturl: http://www.rssitfor.me/DUST514_Status/status/509667377181892608
+      posturl: https://twitter.com/DUST514_Status/status/509667377181892608
     - date: 2014-09-10 23:40:08.855007
-      posturl: http://www.rssitfor.me/DUST514_Status/status/509676572161626112
+      posturl: https://twitter.com/DUST514_Status/status/509676572161626112
     - date: 2014-08-30 16:09:26.114487
-      posturl: http://www.rssitfor.me/DUST514_Status/status/505513073302839296
+      posturl: https://twitter.com/DUST514_Status/status/505513073302839296
     - date: 2014-08-30 16:03:04.391211
-      posturl: http://www.rssitfor.me/DUST514_Status/status/505515933990158337
+      posturl: https://twitter.com/DUST514_Status/status/505515933990158337
     - date: 2014-08-30 02:40:49.986198
-      posturl: http://www.rssitfor.me/DUST514_Status/status/505352229684252673
+      posturl: https://twitter.com/DUST514_Status/status/505352229684252673
     - date: 2014-08-29 23:46:59.416361
-      posturl: http://www.rssitfor.me/DUST514_Status/status/505336946487738368
+      posturl: https://twitter.com/DUST514_Status/status/505336946487738368
     - date: 2014-08-29 03:31:37.086076
-      posturl: http://www.rssitfor.me/DUST514_Status/status/505005581544194049
+      posturl: https://twitter.com/DUST514_Status/status/505005581544194049
     - date: 2014-08-29 03:25:13.582508
-      posturl: http://www.rssitfor.me/DUST514_Status/status/505006559622336513
+      posturl: https://twitter.com/DUST514_Status/status/505006559622336513
     - date: 2014-08-22 22:40:43.332501
-      posturl: http://www.rssitfor.me/DUST514_Status/status/502735064707641344
+      posturl: https://twitter.com/DUST514_Status/status/502735064707641344
     - date: 2014-08-22 22:34:21.803860
-      posturl: http://www.rssitfor.me/DUST514_Status/status/502765090748506112
+      posturl: https://twitter.com/DUST514_Status/status/502765090748506112
     - date: 2014-08-22 18:35:12.635831
-      posturl: http://www.rssitfor.me/DUST514_Status/status/502722825900548097
+      posturl: https://twitter.com/DUST514_Status/status/502722825900548097
     - date: 2014-08-22 09:38:56.707643
-      posturl: http://www.rssitfor.me/DUST514_Status/status/502550964730331136
+      posturl: https://twitter.com/DUST514_Status/status/502550964730331136
     - date: 2014-08-22 09:32:12.968890
-      posturl: http://www.rssitfor.me/DUST514_Status/status/502582688562544642
+      posturl: https://twitter.com/DUST514_Status/status/502582688562544642
     - date: 2014-08-22 05:44:23.624588
-      posturl: http://www.rssitfor.me/DUST514_Status/status/502508923308752896
+      posturl: https://twitter.com/DUST514_Status/status/502508923308752896
     - date: 2014-08-22 05:37:36.008875
-      posturl: http://www.rssitfor.me/DUST514_Status/status/502510896246456320
+      posturl: https://twitter.com/DUST514_Status/status/502510896246456320
     - date: 2014-08-21 23:16:33.022074
-      posturl: http://www.rssitfor.me/DUST514_Status/status/502425480717684736
+      posturl: https://twitter.com/DUST514_Status/status/502425480717684736
     - date: 2014-08-13 01:41:42.725061
-      posturl: http://www.rssitfor.me/DUST514_Status/status/499152409365856256
+      posturl: https://twitter.com/DUST514_Status/status/499152409365856256
     - date: 2014-08-13 01:35:06.035856
-      posturl: http://www.rssitfor.me/DUST514_Status/status/499153502514728960
+      posturl: https://twitter.com/DUST514_Status/status/499153502514728960
     - date: 2014-08-13 01:28:40.074754
-      posturl: http://www.rssitfor.me/DUST514_Status/status/499166320572006400
+      posturl: https://twitter.com/DUST514_Status/status/499166320572006400
     - date: 2014-08-13 01:21:24.913466
-      posturl: http://www.rssitfor.me/DUST514_Status/status/499176233545236480
+      posturl: https://twitter.com/DUST514_Status/status/499176233545236480
     - date: 2014-08-13 01:14:50.199280
-      posturl: http://www.rssitfor.me/DUST514_Status/status/499194199116632064
+      posturl: https://twitter.com/DUST514_Status/status/499194199116632064
     - date: 2014-08-13 01:08:26.478728
-      posturl: http://www.rssitfor.me/DUST514_Status/status/499206432034922496
+      posturl: https://twitter.com/DUST514_Status/status/499206432034922496
     - date: 2014-08-12 20:53:15.370713
-      posturl: http://www.rssitfor.me/DUST514_Status/status/499118082359848960
+      posturl: https://twitter.com/DUST514_Status/status/499118082359848960
     - date: 2014-08-08 00:05:34.444158
-      posturl: http://www.rssitfor.me/DUST514_Status/status/497344823830253569
+      posturl: https://twitter.com/DUST514_Status/status/497344823830253569
     - date: 2014-08-07 23:59:05.619180
-      posturl: http://www.rssitfor.me/DUST514_Status/status/497347252919468032
+      posturl: https://twitter.com/DUST514_Status/status/497347252919468032
     - date: 2014-07-31 04:51:56.675544
-      posturl: http://www.rssitfor.me/DUST514_Status/status/494524253468110849
+      posturl: https://twitter.com/DUST514_Status/status/494524253468110849
     - date: 2014-07-22 21:34:53.545760
-      posturl: http://www.rssitfor.me/DUST514_Status/status/491543487918395392
+      posturl: https://twitter.com/DUST514_Status/status/491543487918395392
     - date: 2014-07-22 18:47:12.112437
-      posturl: http://www.rssitfor.me/DUST514_Status/status/491501239780515840
+      posturl: https://twitter.com/DUST514_Status/status/491501239780515840
     - date: 2014-07-19 03:38:51.119323
-      posturl: http://www.rssitfor.me/DUST514_Status/status/490171038236704768
+      posturl: https://twitter.com/DUST514_Status/status/490171038236704768
     - date: 2014-07-18 22:06:03.625708
-      posturl: http://www.rssitfor.me/DUST514_Status/status/490097510468579328
+      posturl: https://twitter.com/DUST514_Status/status/490097510468579328
     - date: 2014-07-16 23:00:22.458035
-      posturl: http://www.rssitfor.me/DUST514_Status/status/489373813529128960
+      posturl: https://twitter.com/DUST514_Status/status/489373813529128960
     - date: 2014-07-16 22:53:39.016356
-      posturl: http://www.rssitfor.me/DUST514_Status/status/489376680172355584
+      posturl: https://twitter.com/DUST514_Status/status/489376680172355584
     - date: 2014-07-14 22:21:03.397337
-      posturl: http://www.rssitfor.me/DUST514_Status/status/488637271512739840
+      posturl: https://twitter.com/DUST514_Status/status/488637271512739840
     - date: 2014-07-14 07:32:17.740941
-      posturl: http://www.rssitfor.me/DUST514_Status/status/488394871804534784
+      posturl: https://twitter.com/DUST514_Status/status/488394871804534784
     - date: 2014-07-14 04:52:35.213007
-      posturl: http://www.rssitfor.me/DUST514_Status/status/488353736054808576
+      posturl: https://twitter.com/DUST514_Status/status/488353736054808576
     - date: 2014-07-14 02:01:05.494344
-      posturl: http://www.rssitfor.me/DUST514_Status/status/488339896701313024
+      posturl: https://twitter.com/DUST514_Status/status/488339896701313024
     - date: 2014-07-09 23:56:13.228994
-      posturl: http://www.rssitfor.me/DUST514_Status/status/486827010376105984
+      posturl: https://twitter.com/DUST514_Status/status/486827010376105984
     - date: 2014-07-01 23:05:28.720287
-      posturl: http://www.rssitfor.me/DUST514_Status/status/483917543510650881
+      posturl: https://twitter.com/DUST514_Status/status/483917543510650881
     - date: 2014-07-01 22:58:46.484117
-      posturl: http://www.rssitfor.me/DUST514_Status/status/483930268227878912
+      posturl: https://twitter.com/DUST514_Status/status/483930268227878912
     - date: 2014-07-01 01:24:45.174792
-      posturl: http://www.rssitfor.me/DUST514_Status/status/483614218936410112
+      posturl: https://twitter.com/DUST514_Status/status/483614218936410112
     - date: 2014-06-23 05:44:49.231116
-      posturl: http://www.rssitfor.me/DUST514_Status/status/480778635348279296
+      posturl: https://twitter.com/DUST514_Status/status/480778635348279296
     - date: 2014-06-23 02:53:58.650795
-      posturl: http://www.rssitfor.me/DUST514_Status/status/480729983573581824
+      posturl: https://twitter.com/DUST514_Status/status/480729983573581824
     - date: 2014-05-29 00:28:36.457870
-      posturl: http://www.rssitfor.me/DUST514_Status/status/471620105076768768
+      posturl: https://twitter.com/DUST514_Status/status/471620105076768768
     - date: 2014-05-29 00:22:39.248650
-      posturl: http://www.rssitfor.me/DUST514_Status/status/471620961566195712
+      posturl: https://twitter.com/DUST514_Status/status/471620961566195712
     - date: 2014-05-20 00:00:19.365812
-      posturl: http://www.rssitfor.me/DUST514_Status/status/468389152158154752
+      posturl: https://twitter.com/DUST514_Status/status/468389152158154752
     - date: 2014-04-22 19:24:28.689686
-      posturl: http://www.rssitfor.me/DUST514_Status/status/458523770773577728
+      posturl: https://twitter.com/DUST514_Status/status/458523770773577728
     - date: 2014-04-16 20:18:44.725140
-      posturl: http://www.rssitfor.me/DUST514_Status/status/456351145712435200
+      posturl: https://twitter.com/DUST514_Status/status/456351145712435200
     - date: 2014-04-15 11:32:44.960618
-      posturl: http://www.rssitfor.me/DUST514_Status/status/455847995108786176
+      posturl: https://twitter.com/DUST514_Status/status/455847995108786176
     - date: 2014-04-15 08:50:55.082147
-      posturl: http://www.rssitfor.me/DUST514_Status/status/455794922944491520
+      posturl: https://twitter.com/DUST514_Status/status/455794922944491520
     - date: 2014-04-15 08:45:52.280507
-      posturl: http://www.rssitfor.me/DUST514_Status/status/455836850348109824
+      posturl: https://twitter.com/DUST514_Status/status/455836850348109824
     - date: 2014-04-15 05:51:27.981764
-      posturl: http://www.rssitfor.me/DUST514_Status/status/455777633390063616
+      posturl: https://twitter.com/DUST514_Status/status/455777633390063616
     - date: 2014-04-08 19:17:23.111054
-      posturl: http://www.rssitfor.me/DUST514_Status/status/453457007685939200
+      posturl: https://twitter.com/DUST514_Status/status/453457007685939200
     - date: 2014-04-01 18:29:47.545006
-      posturl: http://www.rssitfor.me/DUST514_Status/status/450898892855721985
+      posturl: https://twitter.com/DUST514_Status/status/450898892855721985
     - date: 2014-03-31 20:37:50.715432
-      posturl: http://www.rssitfor.me/DUST514_Status/status/450555636997427201
+      posturl: https://twitter.com/DUST514_Status/status/450555636997427201
     - date: 2014-03-28 22:07:05.446082
-      posturl: http://www.rssitfor.me/DUST514_Status/status/449507218178990080
+      posturl: https://twitter.com/DUST514_Status/status/449507218178990080
     - date: 2014-03-27 23:46:17.584744
-      posturl: http://www.rssitfor.me/DUST514_Status/status/449148018223484928
+      posturl: https://twitter.com/DUST514_Status/status/449148018223484928
     - date: 2014-03-27 21:03:08.842665
-      posturl: http://www.rssitfor.me/DUST514_Status/status/449118795916148736
+      posturl: https://twitter.com/DUST514_Status/status/449118795916148736
     - date: 2014-03-27 01:05:28.364785
       posturl: http://www.rssitfor.me/CCP_Frame/status/448797300597346304
     - date: 2014-03-25 23:47:45.457913
@@ -1111,63 +1219,67 @@ rss_feeds:
     - date: 2014-03-25 21:15:12.922030
       posturl: http://www.rssitfor.me/CCP_Frame/status/448397706713911296
     - date: 2014-03-25 18:24:35.462495
-      posturl: http://www.rssitfor.me/DUST514_Status/status/448306749758775296
+      posturl: https://twitter.com/DUST514_Status/status/448306749758775296
     - date: 2014-03-24 22:55:40.960413
-      posturl: http://www.rssitfor.me/DUST514_Status/status/448066685850091520
+      posturl: https://twitter.com/DUST514_Status/status/448066685850091520
     - date: 2014-03-15 22:57:23.061063
-      posturl: http://www.rssitfor.me/DUST514_Status/status/444798326844981248
+      posturl: https://twitter.com/DUST514_Status/status/444798326844981248
     - date: 2014-03-15 22:52:20.176375
-      posturl: http://www.rssitfor.me/DUST514_Status/status/444803038482808832
+      posturl: https://twitter.com/DUST514_Status/status/444803038482808832
     - date: 2014-03-13 07:43:40.861779
-      posturl: http://www.rssitfor.me/DUST514_Status/status/443802671750082560
+      posturl: https://twitter.com/DUST514_Status/status/443802671750082560
     - date: 2014-03-13 07:38:37.963957
-      posturl: http://www.rssitfor.me/DUST514_Status/status/443810333606821888
+      posturl: https://twitter.com/DUST514_Status/status/443810333606821888
     - date: 2014-03-11 06:17:17.651768
-      posturl: http://www.rssitfor.me/DUST514_Status/status/443083934336049153
+      posturl: https://twitter.com/DUST514_Status/status/443083934336049153
     - date: 2014-03-06 09:52:20.561741
-      posturl: http://www.rssitfor.me/DUST514_Status/status/441319104541360129
+      posturl: https://twitter.com/DUST514_Status/status/441319104541360129
     - date: 2014-03-06 01:35:15.363320
-      posturl: http://www.rssitfor.me/DUST514_Status/status/441204943132037120
+      posturl: https://twitter.com/DUST514_Status/status/441204943132037120
     - date: 2014-03-05 08:51:41.225598
-      posturl: http://www.rssitfor.me/DUST514_Status/status/440961748158668800
+      posturl: https://twitter.com/DUST514_Status/status/440961748158668800
     - date: 2014-03-04 21:36:39.687331
-      posturl: http://www.rssitfor.me/DUST514_Status/status/440784638093848576
+      posturl: https://twitter.com/DUST514_Status/status/440784638093848576
     - date: 2014-03-01 00:17:33.372315
-      posturl: http://www.rssitfor.me/DUST514_Status/status/439359669279412224
+      posturl: https://twitter.com/DUST514_Status/status/439359669279412224
     - date: 2014-02-28 21:17:38.118122
-      posturl: http://www.rssitfor.me/DUST514_Status/status/439351724617515008
+      posturl: https://twitter.com/DUST514_Status/status/439351724617515008
     - date: 2014-02-15 04:22:41.798566
-      posturl: http://www.rssitfor.me/DUST514_Status/status/434357591234584576
+      posturl: https://twitter.com/DUST514_Status/status/434357591234584576
     - date: 2014-02-11 22:02:15.197626
-      posturl: http://www.rssitfor.me/DUST514_Status/status/433200336204226561
+      posturl: https://twitter.com/DUST514_Status/status/433200336204226561
     - date: 2014-02-11 19:14:09.570664
-      posturl: http://www.rssitfor.me/DUST514_Status/status/433143024093515776
+      posturl: https://twitter.com/DUST514_Status/status/433143024093515776
     - date: 2014-02-04 00:20:52.800959
-      posturl: http://www.rssitfor.me/DUST514_Status/status/430316438524805120
+      posturl: https://twitter.com/DUST514_Status/status/430316438524805120
     - date: 2014-02-04 00:15:50.073143
-      posturl: http://www.rssitfor.me/DUST514_Status/status/430335206311358464
+      posturl: https://twitter.com/DUST514_Status/status/430335206311358464
     - date: 2014-01-25 23:01:26.229404
-      posturl: http://www.rssitfor.me/DUST514_Status/status/427044292000219136
+      posturl: https://twitter.com/DUST514_Status/status/427044292000219136
     - date: 2014-01-20 00:49:03.227862
-      posturl: http://www.rssitfor.me/DUST514_Status/status/424877997653762048
+      posturl: https://twitter.com/DUST514_Status/status/424877997653762048
     - date: 2014-01-19 22:21:19.894235
-      posturl: http://www.rssitfor.me/DUST514_Status/status/424870148768813056
+      posturl: https://twitter.com/DUST514_Status/status/424870148768813056
     - date: 2014-01-19 22:11:16.925197
-      posturl: http://www.rssitfor.me/DUST514_Status/status/424873790141923328
+      posturl: https://twitter.com/DUST514_Status/status/424873790141923328
     - date: 2014-01-19 02:41:57.205963
-      posturl: http://www.rssitfor.me/DUST514_Status/status/424547823837671424
+      posturl: https://twitter.com/DUST514_Status/status/424547823837671424
     - date: 2014-01-13 22:26:56.409127
-      posturl: http://www.rssitfor.me/DUST514_Status/status/422673337119027200
+      posturl: https://twitter.com/DUST514_Status/status/422673337119027200
     - date: 2014-01-13 22:16:47.189789
-      posturl: http://www.rssitfor.me/DUST514_Status/status/422694017109733376
+      posturl: https://twitter.com/DUST514_Status/status/422694017109733376
     - date: 2014-01-13 22:06:39.963001
-      posturl: http://www.rssitfor.me/DUST514_Status/status/422698985610936321
+      posturl: https://twitter.com/DUST514_Status/status/422698985610936321
     subreddit: dust514
     type: Server
-    url: http://www.rssitfor.me/getrss?name=dust514_status
+    url: https://twitrss.me/twitter_user_to_rss/?user=dust514_status
   dust_dev_blogs:
     raw: false
     stories:
+    - date: 2015-02-13 16:31:12.593035
+      posturl: http://dust514.com/news/blog/2015/02/developer-spotlight-ben-gruber-ccp-logibro/
+    - date: 2015-01-28 00:05:03.591107
+      posturl: http://dust514.com/news/blog/2015/01/warlords-1.0-overview-patch-notes/
     - date: 2014-12-03 01:04:08.761413
       posturl: http://dust514.com/news/blog/2014/12/uprising-1.10-overview-patch-notes/
     - date: 2014-11-28 21:27:11.277167
@@ -1262,6 +1374,18 @@ rss_feeds:
   dust_featured_promotions:
     raw: false
     stories:
+    - date: 2015-03-02 13:02:56.938814
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2279702
+    - date: 2015-02-25 13:13:58.726451
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2272049
+    - date: 2015-02-16 18:09:44.732019
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2261327
+    - date: 2015-02-10 13:13:37.791741
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2251838
+    - date: 2015-02-03 18:13:45.428326
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2238154
+    - date: 2015-01-27 13:41:51.716608
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2226705
     - date: 2015-01-20 12:51:20.832811
       posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2215027
     - date: 2015-01-13 17:44:24.808428
@@ -1402,6 +1526,16 @@ rss_feeds:
   dust_news:
     raw: false
     stories:
+    - date: 2015-02-25 19:30:01.224753
+      posturl: http://dust514.com/news/2015/02/new-event-five-million-clone-challenge/
+    - date: 2015-02-16 21:13:43.152876
+      posturl: http://dust514.com/news/2015/02/new-dust-514-wallpaper-5/
+    - date: 2015-02-13 16:30:37.181779
+      posturl: http://dust514.com/news/2015/02/developer-spotlight-ben-gruber-ccp-logibro/
+    - date: 2015-01-28 17:30:34.027311
+      posturl: http://dust514.com/news/2015/01/new-event-hacked-decryption-week/
+    - date: 2015-01-28 00:05:41.424544
+      posturl: http://dust514.com/news/2015/01/warlords-1.0-overview-patch-notes/
     - date: 2015-01-13 12:46:29.753832
       posturl: http://dust514.com/news/2015/01/new-dust-514-wallpaper-4/
     - date: 2014-12-18 14:50:14.521305
@@ -1642,6 +1776,52 @@ rss_feeds:
   eve_news:
     raw: false
     stories:
+    - date: 2015-03-04 20:26:35.168519
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/mass-test-on-thursday-march-5-at-17-00-utc/
+    - date: 2015-03-04 04:14:16.728002
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/the-fanfest-quafe-dominix-has-landed/
+    - date: 2015-03-03 23:05:24.409679
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/eve-devs-at-two-upcoming-player-gatherings-boston-san-fransisco/
+    - date: 2015-03-02 23:53:47.823504
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/fanfest-2015-corporation-alliance-panel-1/
+    - date: 2015-02-27 23:42:01.743291
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/player-driven-events-at-fanfest/
+    - date: 2015-02-27 02:46:00.395801
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/testing-eve-online-download-on-demand-your-first-steps/
+    - date: 2015-02-26 22:26:18.230128
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/new-player-opportunities-now-available/
+    - date: 2015-02-26 21:16:47.771626
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/client-audio-issues-workaround/
+    - date: 2015-02-25 21:16:15.064266
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/csm-voting-is-open-now/
+    - date: 2015-02-25 19:40:37.570823
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/o7-airs-this-thursday-at-20-00-eve-time/
+    - date: 2015-02-24 05:21:33.180642
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/30-day-trials-now-available/
+    - date: 2015-02-23 19:44:11.437183
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/reminder-extended-downtimes-on-february-23rd-and-24th/
+    - date: 2015-02-20 23:14:16.914655
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/introducing-your-csm-x-candidates/
+    - date: 2015-02-18 20:42:45.150267
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/calling-all-movie-makers-last-days-of-submissions-for-this-is-eve-contest/
+    - date: 2015-02-17 21:39:15.638501
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/tiamat-has-been-successfully-deployed/
+    - date: 2015-02-16 21:43:16.122772
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/tiamat-release-to-be-deployed-tomorrow/
+    - date: 2015-02-14 00:35:19.425089
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/fanfest-2015-corporation-alliance-panel/
+    - date: 2015-02-13 23:51:13.190527
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/csm-x-last-chance-to-apply/
+    - date: 2015-02-12 20:30:32.546672
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/second-fanfest-ship-is-on-grid/
+    - date: 2015-02-06 02:42:25.271435
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/extended-downtime-on-february-23rd-and-24th/
+    - date: 2015-02-04 03:54:59.034745
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/new-clothing-for-mystery-code-holders/
+    - date: 2015-01-30 21:37:47.493540
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/csm-x-candidacy-opens-now/
+    - date: 2015-01-27 00:03:41.174470
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/next-mass-test-january-29th-2015/
     - date: 2015-01-25 04:37:53.722690
       posturl: http://community.eveonline.com/news/news-channels/eve-online-news/csm-winter-summit-minutes-day-four/
     - date: 2015-01-24 05:25:35.527557
@@ -2082,196 +2262,250 @@ rss_feeds:
   eve_status:
     raw: true
     stories:
+    - date: 2015-03-08 22:16:11.570719
+      posturl: https://twitter.com/EVE_status/status/570163455883399168
+    - date: 2015-03-08 22:01:46.097188
+      posturl: https://twitter.com/EVE_status/status/570543592017666048
+    - date: 2015-03-08 21:58:33.496839
+      posturl: https://twitter.com/EVE_status/status/570552866693357568
+    - date: 2015-03-08 21:53:58.340104
+      posturl: https://twitter.com/EVE_status/status/570583841414500352
+    - date: 2015-03-08 21:50:58.130285
+      posturl: https://twitter.com/EVE_status/status/570610430932070400
+    - date: 2015-03-08 21:45:06.357203
+      posturl: https://twitter.com/EVE_status/status/570900306206318592
+    - date: 2015-03-08 21:34:26.622756
+      posturl: https://twitter.com/EVE_status/status/570914561190195201
+    - date: 2015-02-27 00:53:27.431326
+      posturl: https://twitter.com/EVE_status/status/570900306206318592
+    - date: 2015-02-27 00:48:02.709796
+      posturl: https://twitter.com/EVE_status/status/570914561190195201
+    - date: 2015-02-26 05:56:03.408744
+      posturl: https://twitter.com/EVE_status/status/570583841414500352
+    - date: 2015-02-26 05:50:24.382607
+      posturl: https://twitter.com/EVE_status/status/570610430932070400
+    - date: 2015-02-25 23:36:29.423692
+      posturl: https://twitter.com/EVE_status/status/570543592017666048
+    - date: 2015-02-25 23:31:05.649711
+      posturl: https://twitter.com/EVE_status/status/570552866693357568
+    - date: 2015-02-24 22:37:21.018495
+      posturl: https://twitter.com/EVE_status/status/570163455883399168
+    - date: 2015-02-24 16:36:00.784131
+      posturl: https://twitter.com/EVE_status/status/570017638069477376
+    - date: 2015-02-24 16:30:37.229573
+      posturl: https://twitter.com/EVE_status/status/570053617111203840
+    - date: 2015-02-24 10:05:43.248544
+      posturl: https://twitter.com/EVE_status/status/570006081939898368
+    - date: 2015-02-21 07:48:55.575869
+      posturl: https://twitter.com/EVE_status/status/568844506948374528
+    - date: 2015-02-21 07:43:32.149229
+      posturl: https://twitter.com/EVE_status/status/568848374092464128
+    - date: 2015-02-14 09:58:31.623951
+      posturl: https://twitter.com/EVE_status/status/566361870974865409
     - date: 2015-01-23 01:46:51.060350
-      posturl: http://www.rssitfor.me/EVE_status/status/558265520596983808
+      posturl: https://twitter.com/EVE_status/status/558265520596983808
     - date: 2015-01-13 02:39:04.462576
-      posturl: http://www.rssitfor.me/EVE_status/status/554638139533586434
+      posturl: https://twitter.com/EVE_status/status/554638139533586434
     - date: 2014-12-24 10:29:08.573808
-      posturl: http://www.rssitfor.me/EVE_status/status/547540361233858561
+      posturl: https://twitter.com/EVE_status/status/547540361233858561
     - date: 2014-12-20 01:14:16.522092
-      posturl: http://www.rssitfor.me/EVE_status/status/545955113991684096
+      posturl: https://twitter.com/EVE_status/status/545955113991684096
     - date: 2014-12-11 14:37:29.988047
-      posturl: http://www.rssitfor.me/EVE_status/status/542838603324608512
+      posturl: https://twitter.com/EVE_status/status/542838603324608512
     - date: 2014-12-11 14:29:06.808628
-      posturl: http://www.rssitfor.me/EVE_status/status/542845799353577472
+      posturl: https://twitter.com/EVE_status/status/542845799353577472
     - date: 2014-11-28 21:34:47.062257
-      posturl: http://www.rssitfor.me/EVE_status/status/537565737272238080
+      posturl: https://twitter.com/EVE_status/status/537565737272238080
     - date: 2014-11-15 00:34:45.154314
-      posturl: http://www.rssitfor.me/EVE_status/status/533221006673215488
+      posturl: https://twitter.com/EVE_status/status/533221006673215488
     - date: 2014-11-04 23:14:30.816631
-      posturl: http://www.rssitfor.me/EVE_status/status/529604575771521024
+      posturl: https://twitter.com/EVE_status/status/529604575771521024
     - date: 2014-10-31 04:29:20.719375
-      posturl: http://www.rssitfor.me/EVE_status/status/527883569176526850
+      posturl: https://twitter.com/EVE_status/status/527883569176526850
     - date: 2014-10-21 13:36:18.981251
-      posturl: http://www.rssitfor.me/EVE_status/status/524364346747396096
+      posturl: https://twitter.com/EVE_status/status/524364346747396096
     - date: 2014-10-21 10:55:54.140864
-      posturl: http://www.rssitfor.me/EVE_status/status/524356086027923456
+      posturl: https://twitter.com/EVE_status/status/524356086027923456
     - date: 2014-10-01 02:09:53.335236
-      posturl: http://www.rssitfor.me/EVE_status/status/516940260883042304
+      posturl: https://twitter.com/EVE_status/status/516940260883042304
     - date: 2014-10-01 02:02:43.002716
-      posturl: http://www.rssitfor.me/EVE_status/status/516948819255504896
+      posturl: https://twitter.com/EVE_status/status/516948819255504896
     - date: 2014-10-01 01:55:18.232264
       posturl: http://www.rssitfor.me/EveOnline/status/516952208806772737
     - date: 2014-09-30 23:05:05.294846
-      posturl: http://www.rssitfor.me/EVE_status/status/516932337549189120
+      posturl: https://twitter.com/EVE_status/status/516932337549189120
     - date: 2014-09-29 23:06:36.554054
-      posturl: http://www.rssitfor.me/EVE_status/status/516533191889678336
+      posturl: https://twitter.com/EVE_status/status/516533191889678336
     - date: 2014-09-28 08:13:40.758133
-      posturl: http://www.rssitfor.me/EVE_status/status/515947458590146561
+      posturl: https://twitter.com/EVE_status/status/515947458590146561
     - date: 2014-09-27 08:28:11.699541
-      posturl: http://www.rssitfor.me/EVE_status/status/515596993251774464
+      posturl: https://twitter.com/EVE_status/status/515596993251774464
     - date: 2014-09-23 05:30:38.190354
-      posturl: http://www.rssitfor.me/EVE_status/status/514114995895140353
+      posturl: https://twitter.com/EVE_status/status/514114995895140353
     - date: 2014-09-22 04:45:43.380961
-      posturl: http://www.rssitfor.me/EVE_status/status/513734124214173696
+      posturl: https://twitter.com/EVE_status/status/513734124214173696
     - date: 2014-09-11 21:03:30.402584
-      posturl: http://www.rssitfor.me/EVE_status/status/510014749472747520
+      posturl: https://twitter.com/EVE_status/status/510014749472747520
     - date: 2014-09-11 00:24:57.783339
-      posturl: http://www.rssitfor.me/EVE_status/status/509667377190289408
+      posturl: https://twitter.com/EVE_status/status/509667377190289408
     - date: 2014-09-11 00:18:33.874460
-      posturl: http://www.rssitfor.me/EVE_status/status/509676572207759360
+      posturl: https://twitter.com/EVE_status/status/509676572207759360
     - date: 2014-08-30 12:31:18.685065
-      posturl: http://www.rssitfor.me/EVE_status/status/505513073239928832
+      posturl: https://twitter.com/EVE_status/status/505513073239928832
     - date: 2014-08-30 12:24:15.590516
-      posturl: http://www.rssitfor.me/EVE_status/status/505515933994348544
+      posturl: https://twitter.com/EVE_status/status/505515933994348544
     - date: 2014-08-30 03:13:30.049906
-      posturl: http://www.rssitfor.me/EVE_status/status/505352229688463360
+      posturl: https://twitter.com/EVE_status/status/505352229688463360
     - date: 2014-08-29 23:46:34.016382
-      posturl: http://www.rssitfor.me/EVE_status/status/505336946319962113
+      posturl: https://twitter.com/EVE_status/status/505336946319962113
     - date: 2014-08-29 03:11:24.029824
-      posturl: http://www.rssitfor.me/EVE_status/status/505005581552599042
+      posturl: https://twitter.com/EVE_status/status/505005581552599042
     - date: 2014-08-29 03:04:40.069934
-      posturl: http://www.rssitfor.me/EVE_status/status/505006559626526720
+      posturl: https://twitter.com/EVE_status/status/505006559626526720
     - date: 2014-08-22 22:40:19.392374
-      posturl: http://www.rssitfor.me/EVE_status/status/502765091042107392
+      posturl: https://twitter.com/EVE_status/status/502765091042107392
     - date: 2014-08-22 19:58:38.857665
-      posturl: http://www.rssitfor.me/EVE_status/status/502722825908912128
+      posturl: https://twitter.com/EVE_status/status/502722825908912128
     - date: 2014-08-22 19:52:11.970204
-      posturl: http://www.rssitfor.me/EVE_status/status/502735064732823552
+      posturl: https://twitter.com/EVE_status/status/502735064732823552
     - date: 2014-08-22 17:08:48.817386
-      posturl: http://www.rssitfor.me/EVE_status/status/502711925235793922
+      posturl: https://twitter.com/EVE_status/status/502711925235793922
     - date: 2014-08-22 11:07:25.751909
-      posturl: http://www.rssitfor.me/EVE_status/status/502582688625475585
+      posturl: https://twitter.com/EVE_status/status/502582688625475585
     - date: 2014-08-22 07:22:51.479722
-      posturl: http://www.rssitfor.me/EVE_status/status/502550964784885761
+      posturl: https://twitter.com/EVE_status/status/502550964784885761
     - date: 2014-08-22 04:23:27.496082
-      posturl: http://www.rssitfor.me/EVE_status/status/502508924017594368
+      posturl: https://twitter.com/EVE_status/status/502508924017594368
     - date: 2014-08-22 04:16:47.729842
-      posturl: http://www.rssitfor.me/EVE_status/status/502510896271597568
+      posturl: https://twitter.com/EVE_status/status/502510896271597568
     - date: 2014-08-21 22:55:36.803597
-      posturl: http://www.rssitfor.me/EVE_status/status/502425480721858560
+      posturl: https://twitter.com/EVE_status/status/502425480721858560
     - date: 2014-08-13 03:18:07.416671
-      posturl: http://www.rssitfor.me/EVE_status/status/499206432018165760
+      posturl: https://twitter.com/EVE_status/status/499206432018165760
     - date: 2014-08-13 00:48:00.600800
-      posturl: http://www.rssitfor.me/EVE_status/status/499152409407815680
+      posturl: https://twitter.com/EVE_status/status/499152409407815680
     - date: 2014-08-13 00:41:23.979385
-      posturl: http://www.rssitfor.me/EVE_status/status/499153769910009856
+      posturl: https://twitter.com/EVE_status/status/499153769910009856
     - date: 2014-08-13 00:34:38.927064
-      posturl: http://www.rssitfor.me/EVE_status/status/499166320555220992
+      posturl: https://twitter.com/EVE_status/status/499166320555220992
     - date: 2014-08-13 00:27:59.146246
-      posturl: http://www.rssitfor.me/EVE_status/status/499192982638456832
+      posturl: https://twitter.com/EVE_status/status/499192982638456832
     - date: 2014-08-13 00:21:18.317970
-      posturl: http://www.rssitfor.me/EVE_status/status/499194199099838464
+      posturl: https://twitter.com/EVE_status/status/499194199099838464
     - date: 2014-08-12 19:34:39.745635
-      posturl: http://www.rssitfor.me/EVE_status/status/499118082695397376
+      posturl: https://twitter.com/EVE_status/status/499118082695397376
     - date: 2014-08-08 00:05:08.494692
-      posturl: http://www.rssitfor.me/EVE_status/status/497344823863803906
+      posturl: https://twitter.com/EVE_status/status/497344823863803906
     - date: 2014-08-07 23:58:42.866718
-      posturl: http://www.rssitfor.me/EVE_status/status/497347252932059136
+      posturl: https://twitter.com/EVE_status/status/497347252932059136
     - date: 2014-07-31 05:18:24.260670
-      posturl: http://www.rssitfor.me/EVE_status/status/494524253476487168
+      posturl: https://twitter.com/EVE_status/status/494524253476487168
     - date: 2014-07-29 07:09:47.227298
-      posturl: http://www.rssitfor.me/EVE_status/status/493850042420445184
+      posturl: https://twitter.com/EVE_status/status/493850042420445184
     - date: 2014-07-29 07:03:29.306922
-      posturl: http://www.rssitfor.me/EVE_status/status/493858354792779777
+      posturl: https://twitter.com/EVE_status/status/493858354792779777
     - date: 2014-07-22 23:25:30.010756
-      posturl: http://www.rssitfor.me/EVE_status/status/491543488820158464
+      posturl: https://twitter.com/EVE_status/status/491543488820158464
     - date: 2014-07-22 19:58:20.763576
-      posturl: http://www.rssitfor.me/EVE_status/status/491501239826657280
+      posturl: https://twitter.com/EVE_status/status/491501239826657280
     - date: 2014-07-19 03:58:30.264032
-      posturl: http://www.rssitfor.me/EVE_status/status/490170820451651584
+      posturl: https://twitter.com/EVE_status/status/490170820451651584
     - date: 2014-07-18 22:32:25.628704
-      posturl: http://www.rssitfor.me/EVE_status/status/490097510497918977
+      posturl: https://twitter.com/EVE_status/status/490097510497918977
     - date: 2014-07-16 22:07:58.053458
-      posturl: http://www.rssitfor.me/EVE_status/status/489373813545926657
+      posturl: https://twitter.com/EVE_status/status/489373813545926657
     - date: 2014-07-16 22:01:34.250968
-      posturl: http://www.rssitfor.me/EVE_status/status/489376680172355586
+      posturl: https://twitter.com/EVE_status/status/489376680172355586
     - date: 2014-07-14 22:59:37.695530
-      posturl: http://www.rssitfor.me/EVE_status/status/488637271508537345
+      posturl: https://twitter.com/EVE_status/status/488637271508537345
     - date: 2014-07-14 06:08:49.661656
-      posturl: http://www.rssitfor.me/EVE_status/status/488394871745814529
+      posturl: https://twitter.com/EVE_status/status/488394871745814529
     - date: 2014-07-14 03:39:24.491739
-      posturl: http://www.rssitfor.me/EVE_status/status/488339896730664961
+      posturl: https://twitter.com/EVE_status/status/488339896730664961
     - date: 2014-07-14 03:33:00.415128
-      posturl: http://www.rssitfor.me/EVE_status/status/488353659630387200
+      posturl: https://twitter.com/EVE_status/status/488353659630387200
     - date: 2014-07-09 21:25:36.120548
-      posturl: http://www.rssitfor.me/EVE_status/status/486827010384461825
+      posturl: https://twitter.com/EVE_status/status/486827010384461825
     - date: 2014-07-01 23:25:03.873402
-      posturl: http://www.rssitfor.me/EVE_status/status/483917251591282688
+      posturl: https://twitter.com/EVE_status/status/483917251591282688
     - date: 2014-07-01 23:18:38.644843
-      posturl: http://www.rssitfor.me/EVE_status/status/483930268123013120
+      posturl: https://twitter.com/EVE_status/status/483930268123013120
     - date: 2014-06-14 05:47:41.485422
-      posturl: http://www.rssitfor.me/EVE_status/status/477500234709630976
+      posturl: https://twitter.com/EVE_status/status/477500234709630976
     - date: 2014-05-28 23:22:31.290171
-      posturl: http://www.rssitfor.me/EVE_status/status/471613649199857664
+      posturl: https://twitter.com/EVE_status/status/471613649199857664
     - date: 2014-05-28 23:16:33.916596
-      posturl: http://www.rssitfor.me/EVE_status/status/471620962325372930
+      posturl: https://twitter.com/EVE_status/status/471620962325372930
     - date: 2014-04-15 10:04:29.169056
-      posturl: http://www.rssitfor.me/EVE_status/status/455836850390069250
+      posturl: https://twitter.com/EVE_status/status/455836850390069250
     - date: 2014-04-15 09:59:26.393066
-      posturl: http://www.rssitfor.me/EVE_status/status/455847995129724928
+      posturl: https://twitter.com/EVE_status/status/455847995129724928
     - date: 2014-04-15 06:42:51.996787
-      posturl: http://www.rssitfor.me/EVE_status/status/455777633083863040
+      posturl: https://twitter.com/EVE_status/status/455777633083863040
     - date: 2014-04-15 06:37:49.216900
-      posturl: http://www.rssitfor.me/EVE_status/status/455794922533441536
+      posturl: https://twitter.com/EVE_status/status/455794922533441536
     - date: 2014-03-18 08:19:36.858366
-      posturl: http://www.rssitfor.me/EVE_status/status/445644408512610304
+      posturl: https://twitter.com/EVE_status/status/445644408512610304
     - date: 2014-03-18 08:14:33.838431
-      posturl: http://www.rssitfor.me/EVE_status/status/445654248450457600
+      posturl: https://twitter.com/EVE_status/status/445654248450457600
     - date: 2014-03-17 22:57:35.895666
-      posturl: http://www.rssitfor.me/EVE_status/status/445522726829445120
+      posturl: https://twitter.com/EVE_status/status/445522726829445120
     - date: 2014-03-15 23:49:26.481727
-      posturl: http://www.rssitfor.me/EVE_status/status/444798326823997440
+      posturl: https://twitter.com/EVE_status/status/444798326823997440
     - date: 2014-03-15 23:44:23.595906
-      posturl: http://www.rssitfor.me/EVE_status/status/444803038486994944
+      posturl: https://twitter.com/EVE_status/status/444803038486994944
     - date: 2014-03-15 01:30:20.843190
-      posturl: http://www.rssitfor.me/EVE_status/status/444466137490030592
+      posturl: https://twitter.com/EVE_status/status/444466137490030592
     - date: 2014-03-15 01:25:17.945230
-      posturl: http://www.rssitfor.me/EVE_status/status/444469036790071296
+      posturl: https://twitter.com/EVE_status/status/444469036790071296
     - date: 2014-03-13 07:59:22.766500
-      posturl: http://www.rssitfor.me/EVE_status/status/443802671699734528
+      posturl: https://twitter.com/EVE_status/status/443802671699734528
     - date: 2014-03-13 07:54:19.912307
-      posturl: http://www.rssitfor.me/EVE_status/status/443810333476798464
+      posturl: https://twitter.com/EVE_status/status/443810333476798464
     - date: 2014-03-06 07:18:53.088764
-      posturl: http://www.rssitfor.me/EVE_status/status/441319104553967617
+      posturl: https://twitter.com/EVE_status/status/441319104553967617
     - date: 2014-03-06 01:45:56.254292
-      posturl: http://www.rssitfor.me/EVE_status/status/441204943140438016
+      posturl: https://twitter.com/EVE_status/status/441204943140438016
     - date: 2014-03-05 09:15:07.716348
-      posturl: http://www.rssitfor.me/EVE_status/status/440961748858724352
+      posturl: https://twitter.com/EVE_status/status/440961748858724352
     - date: 2014-03-04 22:28:03.890269
-      posturl: http://www.rssitfor.me/EVE_status/status/440784445902454784
+      posturl: https://twitter.com/EVE_status/status/440784445902454784
     - date: 2014-02-28 23:43:15.734129
-      posturl: http://www.rssitfor.me/EVE_status/status/439359669312950272
+      posturl: https://twitter.com/EVE_status/status/439359669312950272
     - date: 2014-02-28 21:01:26.315152
-      posturl: http://www.rssitfor.me/EVE_status/status/439351633152344064
+      posturl: https://twitter.com/EVE_status/status/439351633152344064
     - date: 2014-02-26 07:18:23.029489
-      posturl: http://www.rssitfor.me/EVE_status/status/438399978973958144
+      posturl: https://twitter.com/EVE_status/status/438399978973958144
     - date: 2014-02-15 03:33:05.015422
-      posturl: http://www.rssitfor.me/EVE_status/status/434357591222009856
+      posturl: https://twitter.com/EVE_status/status/434357591222009856
     - date: 2014-01-25 22:16:17.354296
-      posturl: http://www.rssitfor.me/EVE_status/status/427044292004429824
+      posturl: https://twitter.com/EVE_status/status/427044292004429824
     - date: 2014-01-19 23:19:43.813532
-      posturl: http://www.rssitfor.me/EVE_status/status/424870148743630848
+      posturl: https://twitter.com/EVE_status/status/424870148743630848
     - date: 2014-01-19 23:09:40.916803
-      posturl: http://www.rssitfor.me/EVE_status/status/424873790146109440
+      posturl: https://twitter.com/EVE_status/status/424873790146109440
     - date: 2014-01-19 22:59:37.858393
-      posturl: http://www.rssitfor.me/EVE_status/status/424877997662162944
+      posturl: https://twitter.com/EVE_status/status/424877997662162944
     subreddit: eve
     type: Server
-    url: http://www.rssitfor.me/getrss?name=eve_status
+    url: https://twitrss.me/twitter_user_to_rss/?user=eve_status
   eve_youtube:
     raw: false
     stories:
+    - date: 2015-03-07 01:45:50.052445
+      posturl: tag:youtube.com,2008:video:Lfg5kXFQvTg
+    - date: 2015-03-05 02:04:52.560059
+      posturl: tag:youtube.com,2008:video:wixtclFdXyY
+    - date: 2015-02-28 08:41:20.239066
+      posturl: tag:youtube.com,2008:video:MN4PhGsUDYc
+    - date: 2015-02-21 04:05:36.866682
+      posturl: tag:youtube.com,2008:video:prykUrUhDiQ
+    - date: 2015-02-14 01:04:01.838807
+      posturl: tag:youtube.com,2008:video:grNLMpiZvq0
+    - date: 2015-02-11 00:53:41.266774
+      posturl: tag:youtube.com,2008:video:D1D9Xhl276g
+    - date: 2015-02-07 00:35:51.122479
+      posturl: tag:youtube.com,2008:video:oEwOyBYWSAU
     - date: 2015-01-22 02:18:40.857660
       posturl: tag:youtube.com,2008:video:QbolunTRNSE
     - date: 2015-01-22 02:13:19.296762
@@ -2700,6 +2934,38 @@ rss_feeds:
   game_news:
     raw: false
     stories:
+    - date: 2015-03-07 02:08:46.482428
+      posturl: http://community.eveonline.com/news/news-channels/world-news/rare-revenant-class-supercarrier-downed-in-impass/
+    - date: 2015-03-07 00:22:28.699246
+      posturl: http://community.eveonline.com/news/news-channels/world-news/tukoss-disavowed-by-zainou-biotech/
+    - date: 2015-02-27 02:02:51.510691
+      posturl: http://community.eveonline.com/news/news-channels/world-news/president-roden-sworn-in-for-second-term-in-villore/
+    - date: 2015-02-24 23:43:00.584540
+      posturl: http://community.eveonline.com/news/news-channels/world-news/preparations-begin-for-presidential-inauguration/
+    - date: 2015-02-21 05:26:32.357071
+      posturl: http://community.eveonline.com/news/news-channels/world-news/tensions-between-several-wormhole-residents/
+    - date: 2015-02-20 22:53:07.229615
+      posturl: http://community.eveonline.com/news/news-channels/world-news/sisters-of-eve-release-statement-on-caroliness-star-thera-incident-and-concord/
+    - date: 2015-02-20 21:27:56.477300
+      posturl: http://community.eveonline.com/news/news-channels/world-news/capsuleer-fleet-engages-new-drifter-threat/
+    - date: 2015-02-19 01:06:11.576088
+      posturl: http://community.eveonline.com/news/news-channels/world-news/concord-assembly-lowers-alert-status-as-capsuleer-encounters-with-drifters-raise-questions/
+    - date: 2015-02-18 00:13:48.090075
+      posturl: http://community.eveonline.com/news/news-channels/world-news/concord-assembly-places-genesis-fleet-and-ded-on-high-alert/
+    - date: 2015-02-17 21:39:23.067427
+      posturl: http://community.eveonline.com/news/news-channels/world-news/kezti-sundara-awards-imperia-militia-pilots-with-military-distinction/
+    - date: 2015-01-31 08:16:18.607302
+      posturl: http://community.eveonline.com/news/news-channels/world-news/breaking-news-roden-success-in-bid-for-second-term/
+    - date: 2015-01-30 07:59:29.408167
+      posturl: http://community.eveonline.com/news/news-channels/world-news/bomb-outrage-at-eliaron-idama-rally-on-orvolles-scope-station/
+    - date: 2015-01-29 05:04:10.725295
+      posturl: http://community.eveonline.com/news/news-channels/world-news/voice-modification-surgery-leak-discredits-serena-nova-withdrawal-of-backers-lends-credibility-to-claims/
+    - date: 2015-01-28 05:34:14.828128
+      posturl: http://community.eveonline.com/news/news-channels/world-news/roden-speaks-at-arcurio-election-address/
+    - date: 2015-01-28 01:51:43.453105
+      posturl: http://community.eveonline.com/news/news-channels/world-news/kelen-ontbad-holds-election-holorally-at-algintal-complex/
+    - date: 2015-01-27 05:58:25.990021
+      posturl: http://community.eveonline.com/news/news-channels/world-news/status-of-caldari-prime-in-election-spotlight-as-shaileen-ramnev-speaks/
     - date: 2015-01-24 02:48:31.095728
       posturl: http://community.eveonline.com/news/news-channels/world-news/gallente-presidential-election-enters-advance-voting-stage/
     - date: 2015-01-13 05:23:26.014899
@@ -2812,6 +3078,44 @@ rss_feeds:
   now:
     raw: false
     stories:
+    - date: 2015-03-07 03:39:27.255839
+      posturl: http://now.eveonline.com/post/112882461038
+    - date: 2015-03-04 02:58:38.149120
+      posturl: http://now.eveonline.com/post/112607595828
+    - date: 2015-03-03 10:27:30.907373
+      posturl: http://now.eveonline.com/post/112546537233
+    - date: 2015-02-21 07:27:34.148502
+      posturl: http://now.eveonline.com/post/111578000658
+    - date: 2015-02-19 02:48:22.761709
+      posturl: http://now.eveonline.com/post/111377614983
+    - date: 2015-02-19 02:42:51.188664
+      posturl: http://now.eveonline.com/post/111377714743
+    - date: 2015-02-14 13:41:57.181780
+      posturl: http://now.eveonline.com/post/110947483958
+    - date: 2015-02-14 13:36:36.347687
+      posturl: http://now.eveonline.com/post/110947612653
+    - date: 2015-02-07 15:28:56.223422
+      posturl: http://now.eveonline.com/post/110308412763
+    - date: 2015-02-07 03:23:05.101372
+      posturl: http://now.eveonline.com/post/110251174058
+    - date: 2015-02-06 23:21:48.381219
+      posturl: http://now.eveonline.com/post/110244945658
+    - date: 2015-02-06 03:11:42.708985
+      posturl: http://now.eveonline.com/post/110168187123
+    - date: 2015-02-03 02:16:04.180337
+      posturl: http://now.eveonline.com/post/109878913053
+    - date: 2015-01-31 05:23:59.365319
+      posturl: http://now.eveonline.com/post/109584506668
+    - date: 2015-01-30 05:10:00.354380
+      posturl: http://now.eveonline.com/post/109490798348
+    - date: 2015-01-29 04:52:05.943187
+      posturl: http://now.eveonline.com/post/109398404878
+    - date: 2015-01-29 00:49:23.543025
+      posturl: http://now.eveonline.com/post/109393620998
+    - date: 2015-01-28 00:27:27.960997
+      posturl: http://now.eveonline.com/post/109298167753
+    - date: 2015-01-27 08:17:43.624286
+      posturl: http://now.eveonline.com/post/109219391908
     - date: 2015-01-24 03:28:18.410229
       posturl: http://now.eveonline.com/post/108921821698
     - date: 2015-01-21 06:49:22.161555
@@ -2918,6 +3222,8 @@ rss_feeds:
   patch_notes:
     raw: false
     stories:
+    - date: 2015-02-14 08:21:29.410394
+      posturl: http://community.eveonline.com/news/patch-notes/patch-notes-for-tiamat/
     - date: 2015-01-09 23:23:42.944046
       posturl: http://community.eveonline.com/news/patch-notes/patch-notes-for-proteus/
     - date: 2014-12-06 03:00:25.544947
@@ -2952,151 +3258,167 @@ rss_feeds:
   valkyrie_twitter:
     raw: true
     stories:
+    - date: 2015-03-08 22:50:46.067472
+      posturl: https://twitter.com/EVEValkyrie/status/573913781887188992
+    - date: 2015-03-08 22:50:46.066912
+      posturl: https://twitter.com/EVEValkyrie/status/573913915467374592
+    - date: 2015-03-08 22:45:16.517070
+      posturl: https://twitter.com/EVEValkyrie/status/574218479269756928
+    - date: 2015-03-08 22:38:12.716262
+      posturl: https://twitter.com/IntelUSA/status/574237369819234305
+    - date: 2015-03-08 22:31:13.255484
+      posturl: https://twitter.com/EVEValkyrie/status/574243683287064576
+    - date: 2015-03-08 22:24:06.210090
+      posturl: https://twitter.com/EVEValkyrie/status/574314531004026880
+    - date: 2015-03-05 22:52:16.610906
+      posturl: https://twitter.com/EVEValkyrie/status/573294282133524480
+    - date: 2015-02-27 09:32:26.455814
+      posturl: https://twitter.com/EVEValkyrie/status/571014860298981376
     - date: 2014-11-08 08:13:17.708666
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/530761188049960960
+      posturl: https://twitter.com/EVEValkyrie/status/530761188049960960
     - date: 2014-10-24 07:21:52.229336
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/525364718354329600
+      posturl: https://twitter.com/EVEValkyrie/status/525364718354329600
     - date: 2014-10-14 01:00:17.946051
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/521650229758926848
+      posturl: https://twitter.com/EVEValkyrie/status/521650229758926848
     - date: 2014-10-13 00:17:02.828399
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/521281503431782400
+      posturl: https://twitter.com/EVEValkyrie/status/521281503431782400
     - date: 2014-10-13 00:09:46.267042
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/521281940109135872
+      posturl: https://twitter.com/EVEValkyrie/status/521281940109135872
     - date: 2014-08-27 03:06:05.831350
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/504306066520563713
+      posturl: https://twitter.com/EVEValkyrie/status/504306066520563713
     - date: 2014-08-12 05:46:45.334121
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/498872540702715905
+      posturl: https://twitter.com/EVEValkyrie/status/498872540702715905
     - date: 2014-07-18 02:46:05.427524
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/489771242346807296
+      posturl: https://twitter.com/EVEValkyrie/status/489771242346807296
     - date: 2014-06-25 05:49:32.654730
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/481487287046639616
+      posturl: https://twitter.com/EVEValkyrie/status/481487287046639616
     - date: 2014-06-17 01:51:11.025836
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/478535311447048192
+      posturl: https://twitter.com/EVEValkyrie/status/478535311447048192
     - date: 2014-06-13 06:12:42.565225
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/477149485693284352
+      posturl: https://twitter.com/EVEValkyrie/status/477149485693284352
     - date: 2014-06-12 05:39:42.100759
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/476790640810795008
+      posturl: https://twitter.com/EVEValkyrie/status/476790640810795008
     - date: 2014-05-24 12:17:37.915819
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/466582820346146820
+      posturl: https://twitter.com/EVEValkyrie/status/466582820346146820
     - date: 2014-05-09 08:14:46.552616
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/464471632665669633
+      posturl: https://twitter.com/EVEValkyrie/status/464471632665669633
     - date: 2014-05-04 23:24:23.193526
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/462922245539893248
+      posturl: https://twitter.com/EVEValkyrie/status/462922245539893248
     - date: 2014-05-04 04:56:41.209766
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/462642283855503360
+      posturl: https://twitter.com/EVEValkyrie/status/462642283855503360
     - date: 2014-05-04 04:46:35.688119
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/462653555531612160
+      posturl: https://twitter.com/EVEValkyrie/status/462653555531612160
     - date: 2014-05-04 04:39:53.805744
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/462660072695279616
+      posturl: https://twitter.com/EVEValkyrie/status/462660072695279616
     - date: 2014-05-04 00:47:52.974136
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/462569033972592640
+      posturl: https://twitter.com/EVEValkyrie/status/462569033972592640
     - date: 2014-05-03 05:28:39.498173
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/462277156786434048
+      posturl: https://twitter.com/EVEValkyrie/status/462277156786434048
     - date: 2014-05-03 02:24:45.953030
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/461988418135007232
+      posturl: https://twitter.com/EVEValkyrie/status/461988418135007232
     - date: 2014-05-03 02:14:40.898939
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/462163899492868097
+      posturl: https://twitter.com/EVEValkyrie/status/462163899492868097
     - date: 2014-05-03 02:08:31.703769
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/462218281236316160
+      posturl: https://twitter.com/EVEValkyrie/status/462218281236316160
     - date: 2014-05-02 20:48:09.756672
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/461989440513404928
+      posturl: https://twitter.com/EVEValkyrie/status/461989440513404928
     - date: 2014-05-02 20:38:06.622632
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/461993131094069249
+      posturl: https://twitter.com/EVEValkyrie/status/461993131094069249
     - date: 2014-05-02 20:28:03.766059
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/461993384723636224
+      posturl: https://twitter.com/EVEValkyrie/status/461993384723636224
     - date: 2014-05-02 20:18:00.743088
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/461996287731453952
+      posturl: https://twitter.com/EVEValkyrie/status/461996287731453952
     - date: 2014-05-02 19:29:16.292240
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/462002285288390657
+      posturl: https://twitter.com/EVEValkyrie/status/462002285288390657
     - date: 2014-05-02 19:24:13.355891
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/462002475781091328
+      posturl: https://twitter.com/EVEValkyrie/status/462002475781091328
     - date: 2014-05-02 07:18:17.324275
       posturl: http://www.rssitfor.me/kateesackhoff/status/461915123112628224
     - date: 2014-05-02 07:17:43.847287
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/461935991125983232
+      posturl: https://twitter.com/EVEValkyrie/status/461935991125983232
     - date: 2014-05-01 05:44:45.608037
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/461569122258923520
+      posturl: https://twitter.com/EVEValkyrie/status/461569122258923520
     - date: 2014-04-30 05:22:42.756540
       posturl: http://www.rssitfor.me/EveOnline/status/461213565337497601
     - date: 2014-04-29 05:28:58.773442
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/460836481549225984
+      posturl: https://twitter.com/EVEValkyrie/status/460836481549225984
     - date: 2014-04-26 03:07:04.684671
       posturl: http://www.rssitfor.me/OliverNicholson/status/459715648718114816
     - date: 2014-04-24 04:54:45.852395
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/459002902942867456
+      posturl: https://twitter.com/EVEValkyrie/status/459002902942867456
     - date: 2014-04-21 10:47:55.282736
       posturl: http://www.rssitfor.me/EveOnline/status/458038348444344320
     - date: 2014-04-13 05:43:17.904412
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/455063034986119168
+      posturl: https://twitter.com/EVEValkyrie/status/455063034986119168
     - date: 2014-04-10 03:29:25.910320
       posturl: http://www.rssitfor.me/EveOnline/status/453927627100024833
     - date: 2014-04-04 08:50:46.321215
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/451824186231910400
+      posturl: https://twitter.com/EVEValkyrie/status/451824186231910400
     - date: 2014-03-20 02:20:27.616313
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/446315170277916672
+      posturl: https://twitter.com/EVEValkyrie/status/446315170277916672
     - date: 2014-03-19 15:14:20.342415
       posturl: http://www.rssitfor.me/CCP_Pokethulhu/status/446097842738704384
     - date: 2014-03-14 11:54:51.386484
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/444286883292397568
+      posturl: https://twitter.com/EVEValkyrie/status/444286883292397568
     - date: 2014-03-09 23:46:35.252295
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/442639176635138048
+      posturl: https://twitter.com/EVEValkyrie/status/442639176635138048
     - date: 2014-03-08 02:01:39.873482
       posturl: http://www.rssitfor.me/itsJuliaHardy/status/441886948081545216
     - date: 2014-02-28 02:54:56.165878
       posturl: http://www.rssitfor.me/EveOnline/status/439067038641057792
     - date: 2014-02-22 03:47:24.558002
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/436879016742895617
+      posturl: https://twitter.com/EVEValkyrie/status/436879016742895617
     - date: 2014-02-21 03:03:32.494248
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/436538337407795200
+      posturl: https://twitter.com/EVEValkyrie/status/436538337407795200
     - date: 2014-02-13 10:57:25.392043
       posturl: http://www.rssitfor.me/Official_AIAS/status/433716758793289729
     - date: 2014-02-06 21:21:43.720292
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/431120535662379008
+      posturl: https://twitter.com/EVEValkyrie/status/431120535662379008
     - date: 2014-02-06 02:39:33.697007
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/431085838660022272
+      posturl: https://twitter.com/EVEValkyrie/status/431085838660022272
     - date: 2014-02-04 20:49:15.679666
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/370553725183483906
+      posturl: https://twitter.com/EVEValkyrie/status/370553725183483906
     - date: 2014-02-04 20:49:15.335878
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/370560094779359234
+      posturl: https://twitter.com/EVEValkyrie/status/370560094779359234
     - date: 2014-02-04 20:49:15.005403
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/370918698661343232
+      posturl: https://twitter.com/EVEValkyrie/status/370918698661343232
     - date: 2014-02-04 20:49:14.648079
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/370919776089944064
+      posturl: https://twitter.com/EVEValkyrie/status/370919776089944064
     - date: 2014-02-04 20:49:14.305507
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/372014771106623488
+      posturl: https://twitter.com/EVEValkyrie/status/372014771106623488
     - date: 2014-02-04 20:49:13.962048
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/372127594126139392
+      posturl: https://twitter.com/EVEValkyrie/status/372127594126139392
     - date: 2014-02-04 20:49:13.637027
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/372291023084347392
+      posturl: https://twitter.com/EVEValkyrie/status/372291023084347392
     - date: 2014-02-04 20:49:13.307084
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/373988699450535936
+      posturl: https://twitter.com/EVEValkyrie/status/373988699450535936
     - date: 2014-02-04 20:49:12.959005
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/375303696952750081
+      posturl: https://twitter.com/EVEValkyrie/status/375303696952750081
     - date: 2014-02-04 20:49:12.597818
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/375643714690887680
+      posturl: https://twitter.com/EVEValkyrie/status/375643714690887680
     - date: 2014-02-04 20:49:12.242608
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/377799627753684993
+      posturl: https://twitter.com/EVEValkyrie/status/377799627753684993
     - date: 2014-02-04 20:49:11.894312
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/379613775235514368
+      posturl: https://twitter.com/EVEValkyrie/status/379613775235514368
     - date: 2014-02-04 20:49:11.563245
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/387954036676128769
+      posturl: https://twitter.com/EVEValkyrie/status/387954036676128769
     - date: 2014-02-04 20:49:11.209958
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/392664160363753472
+      posturl: https://twitter.com/EVEValkyrie/status/392664160363753472
     - date: 2014-02-04 20:49:10.858561
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/392743879780233216
+      posturl: https://twitter.com/EVEValkyrie/status/392743879780233216
     - date: 2014-02-04 20:49:10.507204
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/401104272500064256
+      posturl: https://twitter.com/EVEValkyrie/status/401104272500064256
     - date: 2014-02-04 20:49:10.179059
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/401456058209546242
+      posturl: https://twitter.com/EVEValkyrie/status/401456058209546242
     - date: 2014-02-04 20:45:58.711670
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/405015795370950656
+      posturl: https://twitter.com/EVEValkyrie/status/405015795370950656
     - date: 2014-02-04 20:38:24.750309
-      posturl: http://www.rssitfor.me/EVEValkyrie/status/409505666361876480
+      posturl: https://twitter.com/EVEValkyrie/status/409505666361876480
     - date: 2014-02-04 20:33:21.923752
       posturl: http://www.rssitfor.me/Sean_Decker/status/422520429975044096
     subreddit: evevalkyrie
     type: Twitter
-    url: http://www.rssitfor.me/getrss?name=evevalkyrie
+    url: https://twitrss.me/twitter_user_to_rss/?user=evevalkyrie
   valkyrie_youtube:
     raw: false
     stories:

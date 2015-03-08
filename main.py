@@ -122,6 +122,17 @@ class EVERedditBot():
             for comment in data['comments']:
                 time.sleep(5)
                 c = c.reply(comment)
+    
+    # TODO use UnicodeDammit's entity encoding for this
+    def quickEntitySubstitution(self, in_string):
+        content = in_string.replace('&nbsp;', ' ')
+        content = content.replace('&#xa0;', ' ')
+        content = content.replace('&#x2026;', ' ...')
+        content = content.replace('&#x27;', '\'')
+        content = content.replace('&bull;', '*').replace('&middot;','*')
+        content = content.replace('&ldquo;','\'').replace('&rdquo;','\'')
+        content = content.replace(' pic.twitter.com', ' http://pic.twitter.com')
+        return content
 
     def formatForReddit(self, feedEntry, postType, subreddit, raw):
         if 'content' in feedEntry:
@@ -137,28 +148,24 @@ class EVERedditBot():
 
         # some feeds like Twitter are raw so the parser hates it.
         if (raw):
-          regex_of_url = '(https?:\/\/[\dA-z\.-]+\.[A-z\.]{2,6}[\/\w&=#\.\-\?]*)'
-          title = re.sub(regex_of_url, '', title)
-          clean_content = content.replace(' pic.twitter.com', ' http://pic.twitter.com')
+          regex_of_url = '(https?:\/\/[\dA-z\.-]+\.[A-z\.]{2,6}[\/\w&;=#\.\-\?]*)'
+          title = self.quickEntitySubstitution(re.sub(regex_of_url, '', title))
+          clean_content = self.quickEntitySubstitution(content)
+
+          #clean_content = UnicodeDammit.detwingle(clean_content)
           clean_content = re.sub(regex_of_url, '<a href="\\1">link</a>', clean_content)
-          clean_content = UnicodeDammit.detwingle(clean_content)
-          #logging.info(clean_content)
           u = UnicodeDammit(clean_content, 
-                      smart_quotes_to='html', 
+                      smart_quotes_to='ascii', 
                       is_html = False )
           # fix twitter putting ellipses on the end
           content = u.unicode_markup.replace(unichr(8230),' ...')
+          #logging.info(content)
           logging.debug('.....')
         
         if "tumblr.com" in content:
           # Replace with larger images (hopefully such images exist)
           content = content.replace('_500.', '_1280.')
         
-        # Added the .replace because the parser does something funny to them and 
-        # removes them before I can handle them
-        content = content.replace('&nbsp;', ' ')
-        content = content.replace('&bull;', '*').replace('&middot;','*')
-        content = content.replace('&ldquo;','\'').replace('&rdquo;','\'')
         content = re.sub('( [ ]+)', ' ', content)
         parser.feed(content)
         parser.comments[0] = '%s\n\n%s' %(feedEntry['link'], parser.comments[0])
