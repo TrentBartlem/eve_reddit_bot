@@ -231,91 +231,7 @@ rss_feeds:
     subreddit: dust514
     type: CPM1
     url: http://www.dustcpm.com/?feed=rss2
-  csm9_ali:
-    raw: false
-    stories:
-    - date: 2014-05-18 14:05:30.889646
-      posturl: http://warp-to-sun.tumblr.com/post/54772597091
-    - date: 2014-05-18 13:59:09.195654
-      posturl: http://warp-to-sun.tumblr.com/post/55040828777
-    - date: 2014-05-18 13:52:11.768941
-      posturl: http://warp-to-sun.tumblr.com/post/55324561221
-    - date: 2014-05-18 13:45:13.961127
-      posturl: http://warp-to-sun.tumblr.com/post/55355994709
-    - date: 2014-05-18 13:38:15.809181
-      posturl: http://warp-to-sun.tumblr.com/post/55439633538
-    - date: 2014-05-18 13:31:20.147151
-      posturl: http://warp-to-sun.tumblr.com/post/55694420087
-    - date: 2014-05-18 13:24:23.899933
-      posturl: http://warp-to-sun.tumblr.com/post/57793942432
-    - date: 2014-05-18 13:17:22.590362
-      posturl: http://warp-to-sun.tumblr.com/post/58709603802
-    - date: 2014-05-18 13:10:27.370251
-      posturl: http://warp-to-sun.tumblr.com/post/61797503125
-    - date: 2014-05-18 13:03:27.251061
-      posturl: http://warp-to-sun.tumblr.com/post/66037481400
-    - date: 2014-05-18 12:56:29.363448
-      posturl: http://warp-to-sun.tumblr.com/post/67173455933
-    - date: 2014-05-18 12:49:29.566833
-      posturl: http://warp-to-sun.tumblr.com/post/73343452630
-    - date: 2014-05-18 12:42:32.929765
-      posturl: http://warp-to-sun.tumblr.com/post/73523609605
-    - date: 2014-05-18 12:35:34.061943
-      posturl: http://warp-to-sun.tumblr.com/post/74074635538
-    - date: 2014-05-18 12:28:38.618677
-      posturl: http://warp-to-sun.tumblr.com/post/75808523820
-    - date: 2014-05-18 12:21:41.189020
-      posturl: http://warp-to-sun.tumblr.com/post/76396257153
-    - date: 2014-05-18 12:14:40.898896
-      posturl: http://warp-to-sun.tumblr.com/post/77887345827
-    - date: 2014-05-18 12:07:39.457933
-      posturl: http://warp-to-sun.tumblr.com/post/78442026703
-    - date: 2014-05-18 12:00:31.725384
-      posturl: http://warp-to-sun.tumblr.com/post/81970518859
-    - date: 2014-05-18 11:53:27.599926
-      posturl: http://warp-to-sun.tumblr.com/post/82107658604
-    subreddit: eve
-    type: CSM9
-    url: http://warp-to-sun.tumblr.com/rss
-  csm9_bacon:
-    raw: false
-    stories:
-    - date: 2015-02-08 12:01:24.587228
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-757280248871672549
-    - date: 2015-02-02 20:35:16.033458
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-424884142056701899
-    - date: 2015-02-02 03:32:06.611725
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-670879269157173031
-    - date: 2015-02-01 23:56:42.243243
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-5881003578437479856
-    - date: 2014-11-12 08:02:49.068854
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-5719659935285006916
-    - date: 2014-11-11 04:05:55.782571
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-3355774342894319516
-    - date: 2014-11-07 21:52:16.315312
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-2210912079530492089
-    - date: 2014-11-02 20:01:04.823903
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-586365654237354425
-    - date: 2014-09-12 06:30:34.958535
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-6233654056866146896
-    - date: 2014-08-27 20:34:42.379937
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-8666607629823006578
-    - date: 2014-08-20 11:18:24.087674
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-1655381646689956044
-    - date: 2014-08-19 13:04:20.989103
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-8661026664070178578
-    - date: 2014-08-18 12:24:28.788455
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-2536101300686541429
-    - date: 2014-07-17 07:06:35.873025
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-5169756574878438027
-    - date: 2014-05-20 04:52:06.382345
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-5007772860778741805
-    - date: 2014-05-18 11:53:08.335635
-      posturl: tag:blogger.com,1999:blog-1490340916886486838.post-4632881751446683114
-    subreddit: eve
-    type: CSM9
-    url: http://funkybacon.blogspot.com/feeds/posts/default/-/CSM9
-  csm9_corbexx:
+  csm10_corbexx:
     raw: false
     stories:
     - date: 2015-03-30 08:28:33.763989
@@ -355,308 +271,40 @@ rss_feeds:
     - date: 2014-05-18 11:53:20.475769
       posturl: tag:blogger.com,1999:blog-3313686641816452828.post-5962195996016027812
     subreddit: eve
-    type: CSM9
+    type: CSM10
     url: http://corbexx.blogspot.com/feeds/posts/default
-  csm9_fuzzy:
+  csm10_endie:
+    raw: false
+    stories: []
+    subreddit: eve
+    type: CSM10
+    url: http://www.endie.net/wordpress/category/csm10/feed/
+  csm10_fuzzy:
+    raw: false
+    stories: []
+    subreddit: eve
+    type: CSM10
+    url: https://www.fuzzwork.co.uk/tag/csm10/feed/
+  csm10_mike:
+    raw: false
+    stories: []
+    subreddit: eve
+    type: CSM10
+    url: http://mikeazariah.wordpress.com/tag/csm10/feed/
+  csm10_sugar:
+    raw: false
+    stories: []
+    subreddit: eve
+    type: CSM10
+    url: http://www.lowseclifestyle.com/feeds/posts/default/-/csm10
+  csm10_thoric:
     raw: false
     stories:
-    - date: 2014-05-18 12:00:42.668483
-      posturl: https://www.fuzzwork.co.uk/?p=493
-    - date: 2014-05-18 11:53:38.765685
-      posturl: https://www.fuzzwork.co.uk/?p=503
+    - date: 2015-04-03 20:37:32.720461
+      posturl: http://denofiniquity.net/?p=44
     subreddit: eve
-    type: CSM9
-    url: https://www.fuzzwork.co.uk/tag/csm9/feed/
-  csm9_mike:
-    raw: false
-    stories:
-    - date: 2015-01-18 13:14:27.490598
-      posturl: http://mikeazariah.wordpress.com/?p=1657
-    - date: 2015-01-06 12:27:58.019913
-      posturl: http://mikeazariah.wordpress.com/?p=1651
-    - date: 2014-12-12 11:26:57.905465
-      posturl: http://mikeazariah.wordpress.com/?p=1645
-    - date: 2014-11-13 18:08:47.893368
-      posturl: http://mikeazariah.wordpress.com/?p=1624
-    - date: 2014-11-06 13:04:59.108181
-      posturl: http://mikeazariah.wordpress.com/?p=1617
-    - date: 2014-11-03 11:30:36.309516
-      posturl: http://mikeazariah.wordpress.com/?p=1614
-    - date: 2014-10-19 06:01:18.540480
-      posturl: http://mikeazariah.wordpress.com/?p=1607
-    - date: 2014-10-03 15:38:30.118143
-      posturl: http://mikeazariah.wordpress.com/?p=1605
-    - date: 2014-10-02 09:40:39.963235
-      posturl: http://mikeazariah.wordpress.com/?p=1603
-    - date: 2014-09-14 17:13:13.981896
-      posturl: http://mikeazariah.wordpress.com/?p=1598
-    - date: 2014-08-20 04:16:02.258472
-      posturl: http://mikeazariah.wordpress.com/?p=1584
-    - date: 2014-08-18 07:58:31.647470
-      posturl: http://mikeazariah.wordpress.com/?p=1582
-    - date: 2014-08-13 04:33:09.241127
-      posturl: http://mikeazariah.wordpress.com/?p=1577
-    - date: 2014-08-11 05:43:37.840490
-      posturl: http://mikeazariah.wordpress.com/?p=1574
-    - date: 2014-08-01 02:01:13.318893
-      posturl: http://mikeazariah.wordpress.com/?p=1567
-    - date: 2014-07-24 09:57:17.386930
-      posturl: http://mikeazariah.wordpress.com/?p=1558
-    - date: 2014-07-16 11:02:53.426904
-      posturl: http://mikeazariah.wordpress.com/?p=1556
-    - date: 2014-07-12 04:02:28.911564
-      posturl: http://mikeazariah.wordpress.com/?p=1551
-    - date: 2014-06-20 16:55:54.498146
-      posturl: http://mikeazariah.wordpress.com/?p=1546
-    - date: 2014-06-02 03:54:31.996056
-      posturl: http://mikeazariah.wordpress.com/?p=1537
-    - date: 2014-05-20 11:50:54.054021
-      posturl: http://mikeazariah.wordpress.com/?p=1530
-    - date: 2014-05-18 12:07:48.656504
-      posturl: http://mikeazariah.wordpress.com/?p=1524
-    - date: 2014-05-18 12:00:46.371664
-      posturl: http://mikeazariah.wordpress.com/?p=1526
-    - date: 2014-05-18 11:53:42.366881
-      posturl: http://mikeazariah.wordpress.com/?p=1528
-    subreddit: eve
-    type: CSM9
-    url: http://mikeazariah.wordpress.com/tag/csm9/feed/
-  csm9_mynnna:
-    raw: false
-    stories:
-    - date: 2014-08-26 16:07:39.641271
-      posturl: http://thethirdn.wordpress.com/?p=380
-    - date: 2014-08-18 06:46:54.449973
-      posturl: http://thethirdn.wordpress.com/?p=371
-    - date: 2014-07-15 16:24:13.410163
-      posturl: http://thethirdn.wordpress.com/?p=357
-    - date: 2014-07-07 14:36:38.064110
-      posturl: http://thethirdn.wordpress.com/?p=347
-    - date: 2014-06-23 13:39:56.106517
-      posturl: http://thethirdn.wordpress.com/?p=334
-    - date: 2014-06-17 13:38:29.631406
-      posturl: http://thethirdn.wordpress.com/?p=324
-    - date: 2014-06-09 10:43:00.922049
-      posturl: http://thethirdn.wordpress.com/?p=296
-    - date: 2014-06-02 08:03:51.203982
-      posturl: http://thethirdn.wordpress.com/?p=277
-    - date: 2014-05-26 05:04:02.772774
-      posturl: http://thethirdn.wordpress.com/?p=266
-    - date: 2014-05-19 05:39:56.731152
-      posturl: http://thethirdn.wordpress.com/?p=253
-    - date: 2014-05-18 12:00:36.061881
-      posturl: http://thethirdn.wordpress.com/?p=216
-    - date: 2014-05-18 11:53:31.538557
-      posturl: http://thethirdn.wordpress.com/?p=237
-    subreddit: eve
-    type: CSM9
-    url: http://thethirdn.wordpress.com/category/csm/csm9/feed/
-  csm9_sugar:
-    raw: false
-    stories:
-    - date: 2015-03-15 17:02:20.054723
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-8281567006941034993
-    - date: 2015-02-22 18:02:10.188257
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-3610699208491849078
-    - date: 2015-02-09 02:58:14.287889
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-7722158536555296816
-    - date: 2015-02-01 18:00:33.808246
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-2113361253442972095
-    - date: 2015-01-30 02:27:59.385971
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-5154145658967523455
-    - date: 2015-01-11 18:04:09.765117
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-3516211115188176592
-    - date: 2015-01-04 18:05:13.663012
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-3990981181217307045
-    - date: 2014-12-28 18:03:34.834157
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-2201209359143001261
-    - date: 2014-12-21 18:05:45.770689
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-762788712862085049
-    - date: 2014-12-14 18:10:07.233271
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-6412260910711798605
-    - date: 2014-12-07 18:04:13.735283
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-1050108190141853878
-    - date: 2014-11-30 18:00:41.957633
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-3600361209847682156
-    - date: 2014-11-23 18:01:56.609640
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-968164656704142518
-    - date: 2014-11-16 18:01:00.107913
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-6312301918401585356
-    - date: 2014-11-09 18:05:08.268828
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-7721945558566897677
-    - date: 2014-11-02 17:07:25.996175
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-4395590816561610367
-    - date: 2014-10-26 17:00:15.158203
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-3108800325591200476
-    - date: 2014-10-20 15:38:16.122606
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-1120669414962562336
-    - date: 2014-10-12 17:03:37.990232
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-8229565477817982175
-    - date: 2014-10-05 17:00:53.594270
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-3245831674816107277
-    - date: 2014-09-28 17:06:07.116124
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-209775240422798301
-    - date: 2014-09-21 17:02:04.310706
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-3618312935054588372
-    - date: 2014-09-14 17:02:54.616576
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-4016630704033062386
-    - date: 2014-09-07 17:02:24.570474
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-8866305531014145231
-    - date: 2014-08-31 17:05:23.295338
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-5716434236708866193
-    - date: 2014-08-24 16:10:21.151834
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-7521294156709491392
-    - date: 2014-08-19 22:31:17.620218
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-433114751477670488
-    - date: 2014-08-18 22:25:29.451510
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-1326128823643688208
-    - date: 2014-08-17 17:05:27.055167
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-109207428849476297
-    - date: 2014-08-10 17:06:37.465093
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-7437591016424179088
-    - date: 2014-08-03 17:02:34.817265
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-5114998957222585273
-    - date: 2014-07-27 17:04:55.423064
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-8477463495919623643
-    - date: 2014-07-20 17:04:02.223480
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-6311102541213899214
-    - date: 2014-07-13 17:02:05.690877
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-445321830208967876
-    - date: 2014-07-06 17:03:54.469467
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-6886120296728762011
-    - date: 2014-06-29 19:53:25.665918
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-3513588456892399231
-    - date: 2014-06-22 17:01:44.791420
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-6811878990528152817
-    - date: 2014-06-15 23:50:54.277558
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-3386222694981286202
-    - date: 2014-06-09 12:06:50.090603
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-1689764070852964376
-    - date: 2014-06-08 17:01:44.943702
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-1001440615915778976
-    - date: 2014-06-03 10:32:18.026212
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-930771894882124789
-    - date: 2014-06-01 20:54:32.789464
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-6803068416422106928
-    - date: 2014-06-01 18:21:33.035794
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-6462400287800931587
-    - date: 2014-05-25 18:06:01.276285
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-3503043216314400635
-    - date: 2014-05-18 18:05:06.178329
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-4654603652048184314
-    - date: 2014-05-11 18:04:25.143845
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-2308860141814720994
-    - date: 2014-05-06 18:59:08.705486
-      posturl: tag:blogger.com,1999:blog-238324579504790.post-3527684733137765460
-    subreddit: eve
-    type: CSM9
-    url: http://www.lowseclifestyle.com/feeds/posts/default/-/csm9
-  csm9_xander:
-    raw: false
-    stories:
-    - date: 2015-03-26 23:34:58.992364
-      posturl: http://crossingzebras.com/?p=5460
-    - date: 2015-03-11 09:27:32.049487
-      posturl: http://crossingzebras.com/?p=5324
-    - date: 2015-02-22 04:57:06.331516
-      posturl: http://crossingzebras.com/?p=5149
-    - date: 2015-02-11 03:17:02.441997
-      posturl: http://crossingzebras.com/?p=5067
-    - date: 2015-02-08 06:18:38.007883
-      posturl: http://crossingzebras.com/?p=5029
-    - date: 2015-01-30 09:52:02.774611
-      posturl: http://crossingzebras.com/?p=4954
-    - date: 2015-01-21 20:35:55.011131
-      posturl: http://crossingzebras.com/?p=4798
-    - date: 2015-01-16 09:12:24.701851
-      posturl: http://crossingzebras.com/?p=4756
-    - date: 2015-01-14 09:49:00.537388
-      posturl: http://crossingzebras.com/?p=4719
-    - date: 2015-01-06 16:28:36.072803
-      posturl: http://crossingzebras.com/?p=4674
-    - date: 2014-12-30 05:42:15.522333
-      posturl: http://crossingzebras.com/?p=4613
-    - date: 2014-11-04 10:20:40.187328
-      posturl: http://crossingzebras.com/?p=4077
-    - date: 2014-10-14 06:21:31.842832
-      posturl: http://crossingzebras.com/?p=3860
-    - date: 2014-10-02 00:42:24.667808
-      posturl: http://crossingzebras.com/?p=3740
-    - date: 2014-09-25 08:14:10.090259
-      posturl: http://crossingzebras.com/?p=3696
-    - date: 2014-09-23 08:47:59.270906
-      posturl: http://crossingzebras.com/?p=3674
-    - date: 2014-09-16 06:36:48.858499
-      posturl: http://crossingzebras.com/?p=3599
-    - date: 2014-09-10 09:13:18.508275
-      posturl: http://crossingzebras.com/?p=3562
-    - date: 2014-09-08 21:14:19.169329
-      posturl: http://crossingzebras.com/?p=3545
-    - date: 2014-09-01 05:24:58.909323
-      posturl: http://crossingzebras.com/?p=3450
-    - date: 2014-08-25 08:52:47.722710
-      posturl: http://crossingzebras.com/?p=3386
-    - date: 2014-08-21 18:18:57.447954
-      posturl: http://crossingzebras.com/?p=3330
-    - date: 2014-07-31 21:50:33.854582
-      posturl: http://crossingzebras.com/?p=3025
-    - date: 2014-07-20 09:28:51.830108
-      posturl: http://crossingzebras.com/?p=2908
-    - date: 2014-07-14 09:16:02.794514
-      posturl: http://crossingzebras.com/?p=2866
-    - date: 2014-07-07 06:53:32.148111
-      posturl: http://crossingzebras.com/?p=2800
-    - date: 2014-06-30 08:44:07.565920
-      posturl: http://crossingzebras.com/?p=2738
-    - date: 2014-06-22 08:46:36.143979
-      posturl: http://crossingzebras.com/?p=2691
-    - date: 2014-06-16 00:15:17.388160
-      posturl: http://crossingzebras.com/?p=2640
-    - date: 2014-06-08 17:38:15.409736
-      posturl: http://crossingzebras.com/?p=2586
-    - date: 2014-06-06 06:36:06.454202
-      posturl: http://crossingzebras.com/?p=2571
-    - date: 2014-05-31 19:47:35.916606
-      posturl: http://crossingzebras.com/?p=2516
-    - date: 2014-05-25 01:22:51.737466
-      posturl: http://crossingzebras.com/?p=2431
-    - date: 2014-05-23 17:24:40.919703
-      posturl: http://crossingzebras.com/?p=2415
-    - date: 2014-05-17 18:31:33.475267
-      posturl: http://crossingzebras.com/?p=2379
-    - date: 2014-05-13 18:20:45.387465
-      posturl: http://crossingzebras.com/?p=2345
-    - date: 2014-05-10 23:57:01.483488
-      posturl: http://crossingzebras.com/?p=2325
-    - date: 2014-05-07 07:44:28.032117
-      posturl: http://crossingzebras.com/?p=2301
-    - date: 2014-05-06 23:46:33.345194
-      posturl: http://crossingzebras.com/?p=2294
-    - date: 2014-05-06 20:14:35.555065
-      posturl: http://crossingzebras.com/?p=1647
-    - date: 2014-05-06 20:08:16.812668
-      posturl: http://crossingzebras.com/?p=1837
-    - date: 2014-05-06 20:02:07.654106
-      posturl: http://crossingzebras.com/?p=1895
-    - date: 2014-05-06 19:56:00.080975
-      posturl: http://crossingzebras.com/?p=1915
-    - date: 2014-05-06 19:49:51.144453
-      posturl: http://crossingzebras.com/?p=2111
-    - date: 2014-05-06 19:43:41.798541
-      posturl: http://crossingzebras.com/?p=2123
-    - date: 2014-05-06 19:37:13.110039
-      posturl: http://crossingzebras.com/?p=2138
-    - date: 2014-05-06 19:30:44.542096
-      posturl: http://crossingzebras.com/?p=2169
-    - date: 2014-05-06 19:24:15.134122
-      posturl: http://crossingzebras.com/?p=2200
-    - date: 2014-05-06 19:17:47.384824
-      posturl: http://crossingzebras.com/?p=2203
-    - date: 2014-05-06 19:11:16.183571
-      posturl: http://crossingzebras.com/?p=2289
-    subreddit: eve
-    type: CSM9
-    url: http://crossingzebras.com/tag/csm9/feed/
+    type: CSM10
+    url: http://denofiniquity.net/?feed=rss2
   dev_blogs:
     raw: false
     stories:
