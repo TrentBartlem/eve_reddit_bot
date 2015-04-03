@@ -202,6 +202,8 @@ rss_feeds:
   cpm1:
     raw: false
     stories:
+    - date: 2015-03-27 08:59:12.248200
+      posturl: http://www.dustcpm.com/?p=88
     - date: 2014-10-21 01:37:49.460798
       posturl: http://www.dustcpm.com/?p=85
     - date: 2014-09-25 19:17:59.993945
@@ -316,6 +318,12 @@ rss_feeds:
   csm9_corbexx:
     raw: false
     stories:
+    - date: 2015-03-30 08:28:33.763989
+      posturl: tag:blogger.com,1999:blog-3313686641816452828.post-3087789589964535696
+    - date: 2015-03-29 05:23:58.610201
+      posturl: tag:blogger.com,1999:blog-3313686641816452828.post-7180504588666576232
+    - date: 2015-03-27 21:32:41.886577
+      posturl: tag:blogger.com,1999:blog-3313686641816452828.post-4938019914531274
     - date: 2015-02-25 21:26:56.260871
       posturl: tag:blogger.com,1999:blog-3313686641816452828.post-754769113905784416
     - date: 2015-02-12 07:30:31.408101
@@ -446,6 +454,8 @@ rss_feeds:
   csm9_sugar:
     raw: false
     stories:
+    - date: 2015-03-15 17:02:20.054723
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-8281567006941034993
     - date: 2015-02-22 18:02:10.188257
       posturl: tag:blogger.com,1999:blog-238324579504790.post-3610699208491849078
     - date: 2015-02-09 02:58:14.287889
@@ -544,6 +554,10 @@ rss_feeds:
   csm9_xander:
     raw: false
     stories:
+    - date: 2015-03-26 23:34:58.992364
+      posturl: http://crossingzebras.com/?p=5460
+    - date: 2015-03-11 09:27:32.049487
+      posturl: http://crossingzebras.com/?p=5324
     - date: 2015-02-22 04:57:06.331516
       posturl: http://crossingzebras.com/?p=5149
     - date: 2015-02-11 03:17:02.441997
@@ -646,6 +660,28 @@ rss_feeds:
   dev_blogs:
     raw: false
     stories:
+    - date: 2015-03-31 01:56:33.932140
+      posturl: http://community.eveonline.com/news/dev-blogs/i-take-off-my-robe-and-wizard-hat-fanfest-2015-cosplay-results/
+    - date: 2015-03-28 01:04:32.321874
+      posturl: http://community.eveonline.com/news/dev-blogs/csm-x-voting-results/
+    - date: 2015-03-22 23:42:34.498953
+      posturl: http://community.eveonline.com/news/dev-blogs/fanfest-2016-and-eve-vegas-2015-tickets-now-on-sale/
+    - date: 2015-03-22 01:04:20.026964
+      posturl: http://community.eveonline.com/news/dev-blogs/back-into-the-structure/
+    - date: 2015-03-18 23:08:25.036867
+      posturl: http://community.eveonline.com/news/dev-blogs/buddy-invitations-for-trial-users/
+    - date: 2015-03-18 01:04:02.180357
+      posturl: http://community.eveonline.com/news/dev-blogs/fanfest-ship-skins-with-game-time-bundles/
+    - date: 2015-03-14 01:03:57.838523
+      posturl: http://community.eveonline.com/news/dev-blogs/announcing-the-art-of-new-eden/
+    - date: 2015-03-13 01:25:13.670163
+      posturl: http://community.eveonline.com/news/dev-blogs/fanfest-2015-the-festival-to-eclipse-all-others/
+    - date: 2015-03-12 03:48:28.407854
+      posturl: http://community.eveonline.com/news/dev-blogs/worlds-collide-introducing-the-teams/
+    - date: 2015-03-12 02:06:54.048415
+      posturl: http://community.eveonline.com/news/dev-blogs/fanfest-2015-devs-vs-players-football-match/
+    - date: 2015-03-12 01:02:40.693520
+      posturl: http://community.eveonline.com/news/dev-blogs/hashtag-swag-the-fanfest-2015-store/
     - date: 2015-03-06 01:38:50.006221
       posturl: http://community.eveonline.com/news/dev-blogs/a-call-to-art-decorating-the-ccp-office/
     - date: 2015-03-04 01:13:32.085366
@@ -980,6 +1016,18 @@ rss_feeds:
   dust514_status:
     raw: true
     stories:
+    - date: 2015-03-30 07:45:28.445269
+      posturl: https://twitter.com/DUST514_Status/status/581968425804828672
+    - date: 2015-03-29 16:55:23.441015
+      posturl: https://twitter.com/DUST514_Status/status/581984081761669120
+    - date: 2015-03-28 07:44:24.231888
+      posturl: https://twitter.com/DUST514_Status/status/581555720019165184
+    - date: 2015-03-28 07:38:53.667669
+      posturl: https://twitter.com/DUST514_Status/status/581558001133326336
+    - date: 2015-03-12 00:00:19.568177
+      posturl: https://twitter.com/dust514/status/575558752730021888
+    - date: 2015-03-11 23:54:52.723553
+      posturl: https://twitter.com/dust514/status/575592309980532737
     - date: 2015-03-08 22:45:59.662533
       posturl: https://twitter.com/CCP_Frame/status/563576246563774464
     - date: 2015-03-08 22:38:57.310674
@@ -1276,6 +1324,12 @@ rss_feeds:
   dust_dev_blogs:
     raw: false
     stories:
+    - date: 2015-03-12 20:51:41.361204
+      posturl: http://dust514.com/news/blog/2015/03/incoming-dust-514-hotfix-echo/
+    - date: 2015-03-12 12:50:58.326705
+      posturl: http://dust514.com/news/blog/2015/03/five-million-clone-challenge-battle-report/
+    - date: 2015-03-11 19:54:33.466811
+      posturl: http://dust514.com/news/blog/2015/03/developer-spotlight-ccp-bigbird/
     - date: 2015-02-13 16:31:12.593035
       posturl: http://dust514.com/news/blog/2015/02/developer-spotlight-ben-gruber-ccp-logibro/
     - date: 2015-01-28 00:05:03.591107
@@ -1374,6 +1428,14 @@ rss_feeds:
   dust_featured_promotions:
     raw: false
     stories:
+    - date: 2015-03-31 17:11:26.684445
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2327277
+    - date: 2015-03-23 19:40:47.699149
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2316134
+    - date: 2015-03-17 19:52:15.017845
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2307115
+    - date: 2015-03-10 17:11:30.004980
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2292916
     - date: 2015-03-02 13:02:56.938814
       posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2279702
     - date: 2015-02-25 13:13:58.726451
@@ -1526,6 +1588,16 @@ rss_feeds:
   dust_news:
     raw: false
     stories:
+    - date: 2015-04-03 18:37:15.639813
+      posturl: http://dust514.com/news/2015/04/new-event-accelerated-lp-week/
+    - date: 2015-03-25 00:57:01.414434
+      posturl: http://dust514.com/news/2015/03/new-dust-514-wallpaper-6/
+    - date: 2015-03-12 20:51:28.322394
+      posturl: http://dust514.com/news/2015/03/incoming-dust-514-hotfix-echo/
+    - date: 2015-03-12 12:50:43.372490
+      posturl: http://dust514.com/news/2015/03/five-million-clone-challenge-battle-report/
+    - date: 2015-03-11 19:54:22.039736
+      posturl: http://dust514.com/news/2015/03/developer-spotlight-ccp-bigbird/
     - date: 2015-02-25 19:30:01.224753
       posturl: http://dust514.com/news/2015/02/new-event-five-million-clone-challenge/
     - date: 2015-02-16 21:13:43.152876
@@ -1776,6 +1848,42 @@ rss_feeds:
   eve_news:
     raw: false
     stories:
+    - date: 2015-03-31 03:20:45.491052
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/o7-airs-this-wednesday-april-1-at-20-00-eve-time/
+    - date: 2015-03-27 19:19:43.694380
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/new-eden-radio-hosts-ccp-dev-request-show-on-march-27/
+    - date: 2015-03-27 02:11:26.660530
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/fanfest-game-time-offer-extended-by-one-week/
+    - date: 2015-03-27 00:34:14.118650
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/tactical-destroyers-defect-mode-item-drops/
+    - date: 2015-03-25 22:59:05.963479
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/victorieux-luxury-yacht-now-in-redeeming-system/
+    - date: 2015-03-24 21:27:59.329243
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/scylla-has-been-released-successfully/
+    - date: 2015-03-24 01:17:37.244683
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/important-information-download-on-demand/
+    - date: 2015-03-22 06:29:19.448787
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/fanfest-2015-day-3-in-review/
+    - date: 2015-03-21 07:16:08.316253
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/fanfest-2015-day-2-in-review/
+    - date: 2015-03-20 06:09:15.295429
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/eve-tv-schedule-for-the-rest-of-fanfest-2015-plus-streamer-action/
+    - date: 2015-03-20 05:53:07.980407
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/fanfest-2015-day-1-in-review/
+    - date: 2015-03-19 02:04:00.615030
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/patch-notes-for-scylla-now-available/
+    - date: 2015-03-18 03:44:07.289836
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/your-feedback-counts-new-sovereignty-survey-available/
+    - date: 2015-03-13 21:26:10.211417
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/fanfest-2015-stream-schedule-now-available/
+    - date: 2015-03-11 05:07:57.554531
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/worlds-collide-submitted-team-setups/
+    - date: 2015-03-11 04:24:46.549092
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/attention-fanfest-attendees-weather-warning/
+    - date: 2015-03-10 03:23:27.898283
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/csm-x-last-chance-to-vote/
+    - date: 2015-03-10 01:25:13.194197
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/new-mass-test-on-thursday-march-12/
     - date: 2015-03-04 20:26:35.168519
       posturl: http://community.eveonline.com/news/news-channels/eve-online-news/mass-test-on-thursday-march-5-at-17-00-utc/
     - date: 2015-03-04 04:14:16.728002
@@ -2262,6 +2370,16 @@ rss_feeds:
   eve_status:
     raw: true
     stories:
+    - date: 2015-03-30 07:39:51.144556
+      posturl: https://twitter.com/EVE_status/status/581968425787981824
+    - date: 2015-03-29 16:54:44.705292
+      posturl: https://twitter.com/EVE_status/status/581984081774276608
+    - date: 2015-03-28 07:38:44.964571
+      posturl: https://twitter.com/EVE_status/status/581555720014946304
+    - date: 2015-03-28 07:33:19.370935
+      posturl: https://twitter.com/EVE_status/status/581558001095544832
+    - date: 2015-03-25 00:30:27.397534
+      posturl: https://twitter.com/EVE_status/status/580343892912050176
     - date: 2015-03-08 22:16:11.570719
       posturl: https://twitter.com/EVE_status/status/570163455883399168
     - date: 2015-03-08 22:01:46.097188
@@ -2492,6 +2610,106 @@ rss_feeds:
   eve_youtube:
     raw: false
     stories:
+    - date: 2015-03-30 23:01:38.054990
+      posturl: tag:youtube.com,2008:video:C5QLgQCkdoc
+    - date: 2015-03-30 20:06:06.404164
+      posturl: tag:youtube.com,2008:video:lWsfbLKzA1k
+    - date: 2015-03-29 15:43:30.948976
+      posturl: tag:youtube.com,2008:video:JkabIBQWGnc
+    - date: 2015-03-28 08:38:56.139642
+      posturl: tag:youtube.com,2008:video:21LwbnDI2JE
+    - date: 2015-03-28 08:33:31.528897
+      posturl: tag:youtube.com,2008:video:k3XwlpeAIKs
+    - date: 2015-03-28 08:28:06.501740
+      posturl: tag:youtube.com,2008:video:K2UvYw0g0-Y
+    - date: 2015-03-28 08:22:42.031637
+      posturl: tag:youtube.com,2008:video:wNIfpPOOo0M
+    - date: 2015-03-28 07:17:23.960047
+      posturl: tag:youtube.com,2008:video:35Vyue6QC3Q
+    - date: 2015-03-28 05:52:47.775713
+      posturl: tag:youtube.com,2008:video:Y_5P33cp8yo
+    - date: 2015-03-28 05:47:21.735949
+      posturl: tag:youtube.com,2008:video:N5P7uIauK-8
+    - date: 2015-03-28 05:36:54.120788
+      posturl: tag:youtube.com,2008:video:h-jfvjMoe9Y
+    - date: 2015-03-28 05:31:20.632524
+      posturl: tag:youtube.com,2008:video:JjV0ptx01Fc
+    - date: 2015-03-28 05:25:48.499995
+      posturl: tag:youtube.com,2008:video:f4lMjDuZMMg
+    - date: 2015-03-28 05:20:11.994748
+      posturl: tag:youtube.com,2008:video:1jytAfRGsjw
+    - date: 2015-03-28 05:14:41.978031
+      posturl: tag:youtube.com,2008:video:3LJ7cZYYXZM
+    - date: 2015-03-28 05:09:07.399826
+      posturl: tag:youtube.com,2008:video:vLAHCp2T4P0
+    - date: 2015-03-28 05:03:39.576359
+      posturl: tag:youtube.com,2008:video:jh4amiS6oYw
+    - date: 2015-03-28 04:58:11.672771
+      posturl: tag:youtube.com,2008:video:RCggvtcsWUg
+    - date: 2015-03-28 04:52:39.902481
+      posturl: tag:youtube.com,2008:video:v6lHUrOrGS4
+    - date: 2015-03-28 04:46:58.764051
+      posturl: tag:youtube.com,2008:video:KaSvljRoRbw
+    - date: 2015-03-28 04:41:26.751457
+      posturl: tag:youtube.com,2008:video:IjAFSqvIY2I
+    - date: 2015-03-28 04:35:53.211131
+      posturl: tag:youtube.com,2008:video:h-Dm-nmQcd8
+    - date: 2015-03-28 04:30:24.376434
+      posturl: tag:youtube.com,2008:video:ZUX9Aj34RQw
+    - date: 2015-03-28 04:24:40.994907
+      posturl: tag:youtube.com,2008:video:7hC4I-9UxBo
+    - date: 2015-03-28 04:19:05.205394
+      posturl: tag:youtube.com,2008:video:vDFyz0d1zDw
+    - date: 2015-03-28 04:13:32.624921
+      posturl: tag:youtube.com,2008:video:xT6ddbIJRtg
+    - date: 2015-03-28 04:07:41.579834
+      posturl: tag:youtube.com,2008:video:aqeUqRo0yto
+    - date: 2015-03-28 03:00:18.780618
+      posturl: tag:youtube.com,2008:video:ZFy2KTGYlYI
+    - date: 2015-03-28 00:42:56.399037
+      posturl: tag:youtube.com,2008:video:sOGnPAbHKDk
+    - date: 2015-03-28 00:37:27.252426
+      posturl: tag:youtube.com,2008:video:gdQK8zDv9y8
+    - date: 2015-03-28 00:31:59.607847
+      posturl: tag:youtube.com,2008:video:7CBrZ1DDZ9U
+    - date: 2015-03-28 00:26:36.080230
+      posturl: tag:youtube.com,2008:video:WBD7CL9oQqE
+    - date: 2015-03-28 00:21:11.573900
+      posturl: tag:youtube.com,2008:video:6OD2kKIKqm0
+    - date: 2015-03-28 00:15:47.525265
+      posturl: tag:youtube.com,2008:video:A92Ge2S8M1Y
+    - date: 2015-03-28 00:10:06.660312
+      posturl: tag:youtube.com,2008:video:HfGQqrO0HZM
+    - date: 2015-03-28 00:04:39.359583
+      posturl: tag:youtube.com,2008:video:nZ0tdBSMHKM
+    - date: 2015-03-27 23:59:15.482502
+      posturl: tag:youtube.com,2008:video:iJGFnXkRGlc
+    - date: 2015-03-27 23:53:51.859512
+      posturl: tag:youtube.com,2008:video:Wbs4kblmDJY
+    - date: 2015-03-27 23:48:22.692564
+      posturl: tag:youtube.com,2008:video:Hen92QFrDUo
+    - date: 2015-03-27 23:42:54.487033
+      posturl: tag:youtube.com,2008:video:5sEykeDhgco
+    - date: 2015-03-27 23:37:29.831924
+      posturl: tag:youtube.com,2008:video:Ao20T98MoMk
+    - date: 2015-03-27 23:31:57.891814
+      posturl: tag:youtube.com,2008:video:JCR9q1MMO2E
+    - date: 2015-03-27 23:26:17.476715
+      posturl: tag:youtube.com,2008:video:lvpgVgWNqsM
+    - date: 2015-03-27 23:20:43.435744
+      posturl: tag:youtube.com,2008:video:CL_484dBvCE
+    - date: 2015-03-27 23:15:12.401019
+      posturl: tag:youtube.com,2008:video:yA7iUHC_Rco
+    - date: 2015-03-27 20:58:27.036512
+      posturl: tag:youtube.com,2008:video:a-o4SgGD8n4
+    - date: 2015-03-21 05:38:53.823649
+      posturl: tag:youtube.com,2008:video:GCZjvVxFLxI
+    - date: 2015-03-20 04:48:43.005038
+      posturl: tag:youtube.com,2008:video:s3060a8NkOk
+    - date: 2015-03-13 23:43:58.233036
+      posturl: tag:youtube.com,2008:video:MyzO1IteOqk
+    - date: 2015-03-10 03:28:41.668636
+      posturl: tag:youtube.com,2008:video:uZsBtTl3Kh0
     - date: 2015-03-07 01:45:50.052445
       posturl: tag:youtube.com,2008:video:Lfg5kXFQvTg
     - date: 2015-03-05 02:04:52.560059
@@ -2934,6 +3152,10 @@ rss_feeds:
   game_news:
     raw: false
     stories:
+    - date: 2015-03-31 02:19:34.644805
+      posturl: http://community.eveonline.com/news/news-channels/world-news/basgerin-pirate/
+    - date: 2015-03-25 21:33:05.250164
+      posturl: http://community.eveonline.com/news/news-channels/world-news/the-fourth-seyllin-conference/
     - date: 2015-03-07 02:08:46.482428
       posturl: http://community.eveonline.com/news/news-channels/world-news/rare-revenant-class-supercarrier-downed-in-impass/
     - date: 2015-03-07 00:22:28.699246
@@ -3078,6 +3300,26 @@ rss_feeds:
   now:
     raw: false
     stories:
+    - date: 2015-03-28 04:52:44.098765
+      posturl: http://now.eveonline.com/post/114761624533
+    - date: 2015-03-28 04:47:06.115580
+      posturl: http://now.eveonline.com/post/114765805703
+    - date: 2015-03-27 04:27:32.557577
+      posturl: http://now.eveonline.com/post/114673540783
+    - date: 2015-03-23 23:40:52.322276
+      posturl: http://now.eveonline.com/post/114400349513
+    - date: 2015-03-23 23:35:28.879167
+      posturl: http://now.eveonline.com/post/114401903538
+    - date: 2015-03-22 07:13:14.698427
+      posturl: http://now.eveonline.com/post/114247795213
+    - date: 2015-03-14 05:14:50.523171
+      posturl: http://now.eveonline.com/post/113521778623
+    - date: 2015-03-14 01:14:26.836038
+      posturl: http://now.eveonline.com/post/113509780828
+    - date: 2015-03-11 04:41:04.937234
+      posturl: http://now.eveonline.com/post/113258397903
+    - date: 2015-03-09 00:13:07.546911
+      posturl: http://now.eveonline.com/post/113064270448
     - date: 2015-03-07 03:39:27.255839
       posturl: http://now.eveonline.com/post/112882461038
     - date: 2015-03-04 02:58:38.149120
@@ -3222,6 +3464,8 @@ rss_feeds:
   patch_notes:
     raw: false
     stories:
+    - date: 2015-03-19 02:04:10.696380
+      posturl: http://community.eveonline.com/news/patch-notes/patch-notes-for-scylla/
     - date: 2015-02-14 08:21:29.410394
       posturl: http://community.eveonline.com/news/patch-notes/patch-notes-for-tiamat/
     - date: 2015-01-09 23:23:42.944046
@@ -3258,6 +3502,42 @@ rss_feeds:
   valkyrie_twitter:
     raw: true
     stories:
+    - date: 2015-04-01 15:55:46.849748
+      posturl: https://twitter.com/ItsNej/status/582942466447417344
+    - date: 2015-04-01 02:04:59.082761
+      posturl: https://twitter.com/EVEValkyrie/status/582912254724726786
+    - date: 2015-03-31 07:41:01.701383
+      posturl: https://twitter.com/EVEValkyrie/status/582575951239897088
+    - date: 2015-03-27 07:32:52.180150
+      posturl: https://twitter.com/EVEValkyrie/status/581187730975158272
+    - date: 2015-03-26 00:35:47.593435
+      posturl: https://twitter.com/EveOnline/status/580526839262814208
+    - date: 2015-03-23 00:31:39.113920
+      posturl: https://twitter.com/EVEValkyrie/status/579314121310662656
+    - date: 2015-03-22 14:42:55.857759
+      posturl: https://twitter.com/CCP_Explorer/status/579339438582546433
+    - date: 2015-03-22 00:26:45.527057
+      posturl: https://twitter.com/EVEValkyrie/status/579273996128133120
+    - date: 2015-03-20 00:35:36.200806
+      posturl: https://twitter.com/EVEValkyrie/status/578529188182941696
+    - date: 2015-03-20 00:30:14.670235
+      posturl: https://twitter.com/EVEValkyrie/status/578535582231609344
+    - date: 2015-03-20 00:19:50.459362
+      posturl: https://twitter.com/EVEValkyrie/status/578536682754031616
+    - date: 2015-03-20 00:14:25.808208
+      posturl: https://twitter.com/EVEValkyrie/status/578541875700867072
+    - date: 2015-03-17 00:06:31.777764
+      posturl: https://twitter.com/HilmarVeigar/status/576734757582708736
+    - date: 2015-03-14 23:59:48.301678
+      posturl: https://twitter.com/EVEValkyrie/status/576387637784772608
+    - date: 2015-03-10 00:04:28.892622
+      posturl: https://twitter.com/EVEValkyrie/status/574582830669369344
+    - date: 2015-03-09 23:54:19.674894
+      posturl: https://twitter.com/IntelUSA/status/574560219189018624
+    - date: 2015-03-09 23:45:12.844109
+      posturl: https://twitter.com/EVEValkyrie/status/574695494376685568
+    - date: 2015-03-09 08:02:21.220886
+      posturl: https://twitter.com/EVEValkyrie/status/574689650423496704
     - date: 2015-03-08 22:50:46.067472
       posturl: https://twitter.com/EVEValkyrie/status/573913781887188992
     - date: 2015-03-08 22:50:46.066912
@@ -3422,6 +3702,8 @@ rss_feeds:
   valkyrie_youtube:
     raw: false
     stories:
+    - date: 2015-03-19 22:59:11.978988
+      posturl: tag:youtube.com,2008:video:DZ4gpjwJa08
     - date: 2014-05-02 04:39:41.922637
       posturl: tag:youtube.com,2008:video:j6mAu1IqibA
     - date: 2014-05-02 04:39:29.120614
