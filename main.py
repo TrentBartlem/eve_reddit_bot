@@ -40,6 +40,7 @@ class EVERedditBot():
         self.config = self.readYamlFile(self.config_path)
         
         self.feed_config_path = 'eve_reddit_bot_feeds.yaml'
+        # comment out next two lines to push local changes out in next DB save
         if os.environ.get('DATABASE_URL') is not None:
             self.readYamlDatabaseToFile(self.feed_config_path)
         
