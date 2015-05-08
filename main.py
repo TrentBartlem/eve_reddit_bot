@@ -504,7 +504,7 @@ if __name__ == '__main__':
             catchable_exceptions = ["Gateway Time", "timed out", "ConnectionPool", "Connection reset", "Server Error", "try again", "Too Big", "onnection aborted"]
             if any(substring in str(e) for substring in catchable_exceptions):
                 _sleeptime = round(_sleeptime*2)
-                logging.debug(str(e))
+                logging.info(str(e))
             else:
                 exitexception(e)
 
