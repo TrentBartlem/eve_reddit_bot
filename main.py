@@ -42,7 +42,7 @@ class EVERedditBot():
         self.feed_config_path = 'eve_reddit_bot_feeds.yaml'
         # comment out next two lines to push local changes out in next DB save
         if os.environ.get('DATABASE_URL') is not None:
-            self.readYamlDatabaseToFile(self.feed_config_path)
+           self.readYamlDatabaseToFile(self.feed_config_path)
         
         self.feed_config = self.readYamlFile(self.feed_config_path)
         
@@ -151,7 +151,8 @@ class EVERedditBot():
         if (raw):
           regex_of_url = '(https?:\/\/[\dA-z\.-]+\.[A-z\.]{2,6}[\/\w&;=#\.\-\?]*)'
           title = self.quickEntitySubstitution(re.sub(regex_of_url, '', title))
-          clean_content = self.quickEntitySubstitution(content)
+          # twitrss.me wrecks feedEntry.description, use title
+          clean_content = self.quickEntitySubstitution(title)
 
           #clean_content = UnicodeDammit.detwingle(clean_content)
           clean_content = re.sub(regex_of_url, '<a href="\\1">link</a>', clean_content)
