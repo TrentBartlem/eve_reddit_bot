@@ -152,7 +152,7 @@ class EVERedditBot():
           regex_of_url = '(https?:\/\/[\dA-z\.-]+\.[A-z\.]{2,6}[\/\w&;=#\.\-\?]*)'
           title = self.quickEntitySubstitution(re.sub(regex_of_url, '', title))
           # twitrss.me wrecks feedEntry.description, use title
-          clean_content = self.quickEntitySubstitution(title)
+          clean_content = self.quickEntitySubstitution(feedEntry['title'])
 
           #clean_content = UnicodeDammit.detwingle(clean_content)
           clean_content = re.sub(regex_of_url, '<a href="\\1">link</a>', clean_content)
