@@ -1,7 +1,7 @@
 pyyaml
 feedparser
 beautifulsoup4
-praw>=2.1.21
+praw>=3.0.0
 python-dateutil
 sqlalchemy
 psycopg2

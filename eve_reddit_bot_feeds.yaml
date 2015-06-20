@@ -359,10 +359,12 @@ rss_feeds:
     url: http://mikeazariah.wordpress.com/tag/csmx/feed/
   csm10_sugar:
     raw: false
-    stories: []
+    stories:
+    - date: 2015-06-14 15:47:29.888460
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-4981010828888857271
     subreddit: eve
     type: CSM10
-    url: http://www.lowseclifestyle.com/feeds/posts/default/-/csm10
+    url: http://www.lowseclifestyle.com/feeds/posts/default/-/CSMX
   csm10_thoric:
     raw: false
     stories:
@@ -3652,9 +3654,9 @@ rss_feeds:
   valkyrie_twitter:
     raw: true
     stories:
-    - date: 2015-06-13 02:58:31.002085
+    - date: 2015-06-13 15:25:05.461999
       posturl: https://twitter.com/phunnel/status/609050889475772416
-    - date: 2015-06-13 02:52:58.289680
+    - date: 2015-06-13 15:09:40.680864
       posturl: https://twitter.com/EVEValkyrie/status/609053123890524160
     - date: 2015-06-12 02:48:00.552523
       posturl: https://twitter.com/EVEValkyrie/status/609003857767731200
