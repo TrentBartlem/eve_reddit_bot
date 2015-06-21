@@ -234,7 +234,7 @@ class EVERedditBot():
         for rss_feed in self.feed_config['rss_feeds']:
             self.rss_parser(rss_feed, all_entry_ids)
 
-        many_months_ago = datetime.now() + relativedelta( months = -18 )
+        many_months_ago = datetime.now() + relativedelta( months = (-5 * 12) )
         self.prune_old_stories(all_entry_ids, many_months_ago)
         self.save_feed_config()
         
