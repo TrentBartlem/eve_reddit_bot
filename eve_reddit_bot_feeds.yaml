@@ -319,7 +319,9 @@ rss_feeds:
     url: http://corbexx.blogspot.com/feeds/posts/default
   csm10_endie:
     raw: false
-    stories: []
+    stories:
+    - date: 2015-06-17 22:05:44.112856
+      posturl: http://www.endie.net/wordpress/?p=325
     subreddit: eve
     type: CSM10
     url: http://www.endie.net/wordpress/category/csm10/feed/
@@ -332,6 +334,8 @@ rss_feeds:
   csm10_mike:
     raw: false
     stories:
+    - date: 2015-06-16 18:42:05.006628
+      posturl: http://mikeazariah.wordpress.com/?p=1733
     - date: 2015-05-29 03:36:14.531903
       posturl: http://mikeazariah.wordpress.com/?p=1727
     - date: 2015-05-11 23:33:42.932918
@@ -360,6 +364,46 @@ rss_feeds:
   csm10_sugar:
     raw: false
     stories:
+    - date: 2015-06-21 14:00:32.601817
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-4604997080129480396
+    - date: 2015-06-14 23:58:27.631069
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-6285675750434672696
+    - date: 2015-06-14 17:23:31.865807
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-9020202916737487800
+    - date: 2015-06-14 17:18:09.172897
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-2113361253442972095
+    - date: 2015-06-14 17:12:43.698438
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-7722158536555296816
+    - date: 2015-06-14 17:07:20.657746
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-3610699208491849078
+    - date: 2015-06-14 17:01:51.747710
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-4829169226044179628
+    - date: 2015-06-14 16:56:21.348406
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-5125483078382747204
+    - date: 2015-06-14 16:50:52.868778
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-8281567006941034993
+    - date: 2015-06-14 16:45:25.948426
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-9138199958045755606
+    - date: 2015-06-14 16:39:56.713997
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-5551633717692993325
+    - date: 2015-06-14 16:34:25.989388
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-7301355275212165232
+    - date: 2015-06-14 16:28:58.475134
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-6748955839915452306
+    - date: 2015-06-14 16:23:34.108785
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-2197671429107662915
+    - date: 2015-06-14 16:18:05.472626
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-3126569626527591848
+    - date: 2015-06-14 16:12:25.235618
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-2331178808871314612
+    - date: 2015-06-14 16:06:58.490435
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-7348233522089158768
+    - date: 2015-06-14 16:01:29.562934
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-3642538929478128069
+    - date: 2015-06-14 15:55:57.982962
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-7771668171322199554
+    - date: 2015-06-14 15:50:26.326307
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-9157969444417729167
     - date: 2015-06-14 15:47:29.888460
       posturl: tag:blogger.com,1999:blog-238324579504790.post-4981010828888857271
     subreddit: eve
@@ -378,6 +422,12 @@ rss_feeds:
   dev_blogs:
     raw: false
     stories:
+    - date: 2015-06-20 00:17:42.114208
+      posturl: http://community.eveonline.com/news/dev-blogs/the-dominix-work-in-progress-and-a-new-art-director/
+    - date: 2015-06-19 03:26:06.969318
+      posturl: http://community.eveonline.com/news/dev-blogs/bracket-icon-feedback/
+    - date: 2015-06-19 01:27:59.673979
+      posturl: http://community.eveonline.com/news/dev-blogs/an-update-on-the-drifters/
     - date: 2015-06-10 02:51:14.942846
       posturl: http://community.eveonline.com/news/dev-blogs/a-call-to-art-contest-winners/
     - date: 2015-06-06 00:57:36.875753
@@ -776,6 +826,14 @@ rss_feeds:
   dust514_status:
     raw: true
     stories:
+    - date: 2015-06-20 03:24:51.762296
+      posturl: https://twitter.com/DUST514_Status/status/611880433752625152
+    - date: 2015-06-20 03:19:19.954934
+      posturl: https://twitter.com/DUST514_Status/status/611894079039913985
+    - date: 2015-06-16 03:06:47.815624
+      posturl: https://twitter.com/DUST514_Status/status/610277563836071936
+    - date: 2015-06-16 03:01:14.906401
+      posturl: https://twitter.com/DUST514_Status/status/610407960628625408
     - date: 2015-06-11 02:42:55.165444
       posturl: https://twitter.com/DUST514_Status/status/608595519619932160
     - date: 2015-05-28 03:55:47.596958
@@ -1618,14 +1676,26 @@ rss_feeds:
   dust_press:
     raw: false
     stories:
-    - date: 2013-12-21 23:57:27.152020
-      posturl: http://dust514.com/news/press/2013/10/psu-dust-514-exclusive-interview-creative-director-the-evolution-of-playstations-flagship-f2p-shooter/
-    - date: 2013-12-21 23:57:27.152020
+    - date: 2015-06-22 00:56:31.876930
+      posturl: http://dust514.com/news/press/2013/05/dust-514-will-change-the-rhythm-of-eve/
+    - date: 2015-06-22 00:50:50.046263
+      posturl: http://dust514.com/news/press/2013/05/dust-514-review-playstation-universe-1/
+    - date: 2015-06-22 00:44:49.412643
+      posturl: http://dust514.com/news/press/2013/05/dust-514-review-ten-ton-hammer/
+    - date: 2015-06-22 00:39:08.367735
+      posturl: http://dust514.com/news/press/2013/06/psu.com-e3-interview-dust-514-a-universe-like-no-other/
+    - date: 2015-06-22 00:33:41.355451
+      posturl: http://dust514.com/news/press/2013/07/dust-514-issues-a-challenge-to-all-players/
+    - date: 2015-06-22 00:28:05.955566
+      posturl: http://dust514.com/news/press/2013/07/dust-514-and-the-epic-game-inside-a-game/
+    - date: 2015-06-22 00:22:25.335081
       posturl: http://dust514.com/news/press/2013/10/polygon-dust-514-new-producer-make-the-game-more-intense/
-    - date: 2013-12-21 23:57:27.152020
+    - date: 2015-06-22 00:16:42.138384
       posturl: http://dust514.com/news/press/2013/10/mmorpg.com-uprising-dusts-off-dust/
-    - date: 2013-12-21 23:57:27.152020
+    - date: 2015-06-22 00:10:33.335305
       posturl: http://dust514.com/news/press/2013/10/massively-ccp-hires-new-executive-producer-for-dust-514-jean-charles-gaudechon/
+    - date: 2015-06-22 00:04:58.301654
+      posturl: http://dust514.com/news/press/2013/10/psu-dust-514-exclusive-interview-creative-director-the-evolution-of-playstations-flagship-f2p-shooter/
     - date: 2013-12-21 23:57:27.152020
       posturl: http://dust514.com/news/press/2013/07/dust-514-issues-a-challenge-to-all-players/
     - date: 2013-12-21 23:57:27.152020
@@ -1728,6 +1798,14 @@ rss_feeds:
   eve_news:
     raw: false
     stories:
+    - date: 2015-06-17 00:53:30.902960
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/at-xiii-final-team-selection/
+    - date: 2015-06-17 00:12:38.812707
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/connectivity-isp-issues-for-us-players/
+    - date: 2015-06-16 22:03:11.627808
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/first-winning-eve-vegas-ticket-holder-announced/
+    - date: 2015-06-15 23:53:37.422843
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/join-the-mass-test-on-tuesday-june-16/
     - date: 2015-06-13 04:35:14.511582
       posturl: http://community.eveonline.com/news/news-channels/eve-online-news/smts-rifter-model-now-available/
     - date: 2015-06-12 06:48:50.117994
@@ -2328,6 +2406,10 @@ rss_feeds:
   eve_status:
     raw: true
     stories:
+    - date: 2015-06-20 03:36:12.382574
+      posturl: https://twitter.com/EVE_status/status/611880433744236544
+    - date: 2015-06-20 03:30:36.212508
+      posturl: https://twitter.com/EVE_status/status/611894079039909888
     - date: 2015-06-11 02:43:07.206106
       posturl: https://twitter.com/EVE_status/status/608595519615696896
     - date: 2015-05-09 05:16:06.795818
@@ -2604,6 +2686,8 @@ rss_feeds:
   eve_youtube:
     raw: false
     stories:
+    - date: 2015-06-20 02:13:07.407098
+      posturl: yt:video:kATF1BQ9gKk
     - date: 2015-06-13 09:22:40.516122
       posturl: yt:video:Swkk__IT3Es
     - date: 2015-06-13 05:02:26.775967
@@ -3404,6 +3488,10 @@ rss_feeds:
   now:
     raw: false
     stories:
+    - date: 2015-06-20 03:19:04.690781
+      posturl: http://now.eveonline.com/post/121921366323
+    - date: 2015-06-20 03:13:13.349620
+      posturl: http://now.eveonline.com/post/121926477203
     - date: 2015-06-13 05:18:47.446293
       posturl: http://now.eveonline.com/post/121354293648
     - date: 2015-06-13 05:13:17.333312
@@ -3654,6 +3742,20 @@ rss_feeds:
   valkyrie_twitter:
     raw: true
     stories:
+    - date: 2015-06-19 03:14:26.510412
+      posturl: https://twitter.com/ItsNej/status/611256709001125890
+    - date: 2015-06-18 03:26:17.077519
+      posturl: https://twitter.com/EVEValkyrie/status/610914699765395458
+    - date: 2015-06-18 03:15:53.549897
+      posturl: https://twitter.com/EVEValkyrie/status/610975494218121216
+    - date: 2015-06-18 03:09:56.945703
+      posturl: https://twitter.com/EVEValkyrie/status/610989917674541056
+    - date: 2015-06-17 03:21:53.665448
+      posturl: https://twitter.com/EVEValkyrie/status/610555427735138304
+    - date: 2015-06-17 03:11:30.073676
+      posturl: https://twitter.com/ItsNej/status/610513879534338050
+    - date: 2015-06-17 03:04:52.351836
+      posturl: https://twitter.com/CCP_Falcon/status/610809374978670592
     - date: 2015-06-13 15:25:05.461999
       posturl: https://twitter.com/phunnel/status/609050889475772416
     - date: 2015-06-13 15:09:40.680864
@@ -3876,6 +3978,8 @@ rss_feeds:
   valkyrie_youtube:
     raw: false
     stories:
+    - date: 2015-06-17 12:38:31.081440
+      posturl: yt:video:-XzMLg-yA6Q
     - date: 2015-04-22 22:16:09.580057
       posturl: yt:video:6EwQWb5IAD4
     - date: 2015-04-22 22:16:09.579646
