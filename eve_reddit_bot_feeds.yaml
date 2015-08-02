@@ -364,6 +364,14 @@ rss_feeds:
   csm10_sugar:
     raw: false
     stories:
+    - date: 2015-07-26 15:21:18.195197
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-1250936727669638682
+    - date: 2015-07-19 19:37:24.324010
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-1953734507496531442
+    - date: 2015-07-12 15:05:43.204680
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-3817343277861015022
+    - date: 2015-07-05 14:00:56.468498
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-7733602168210904351
     - date: 2015-06-28 15:03:27.188676
       posturl: tag:blogger.com,1999:blog-238324579504790.post-3767575998445182698
     - date: 2015-06-21 14:00:32.601817
@@ -414,6 +422,8 @@ rss_feeds:
   csm10_thoric:
     raw: false
     stories:
+    - date: 2015-07-10 07:50:30.414240
+      posturl: http://denofiniquity.net/?p=55
     - date: 2015-05-24 14:16:47.166718
       posturl: http://denofiniquity.net/?p=50
     - date: 2015-04-03 20:37:32.720461
@@ -424,6 +434,12 @@ rss_feeds:
   dev_blogs:
     raw: false
     stories:
+    - date: 2015-07-09 01:04:37.728105
+      posturl: http://community.eveonline.com/news/dev-blogs/summer-of-sov-nullsec-pve-and-upgrades/
+    - date: 2015-07-08 01:19:29.555714
+      posturl: http://community.eveonline.com/news/dev-blogs/summer-of-sov-transition-and-deployment/
+    - date: 2015-07-07 01:13:56.588391
+      posturl: http://community.eveonline.com/news/dev-blogs/missile-guidance-modules-the-hecate-and-balance-updates-in-aegis/
     - date: 2015-07-03 01:06:42.790092
       posturl: http://community.eveonline.com/news/dev-blogs/introducing-the-new-customer-support-help-center/
     - date: 2015-06-25 02:02:48.263841
@@ -832,6 +848,8 @@ rss_feeds:
   dust_featured_promotions:
     raw: false
     stories:
+    - date: 2015-07-29 16:53:10.901324
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2480883
     - date: 2015-06-24 20:49:55.044872
       posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2435616
     - date: 2015-06-11 16:12:20.370390
@@ -1010,6 +1028,14 @@ rss_feeds:
   dust_news:
     raw: false
     stories:
+    - date: 2015-07-17 03:32:34.475120
+      posturl: http://dust514.com/news/2015/07/new-dust-514-wallpaper-10/
+    - date: 2015-07-15 03:13:41.758062
+      posturl: http://dust514.com/news/2015/07/cpm-2-election/
+    - date: 2015-07-10 13:12:59.226859
+      posturl: http://dust514.com/news/2015/07/developer-spotlight-gu-qian-ccp-phoenix/
+    - date: 2015-07-06 11:36:03.460907
+      posturl: http://dust514.com/news/2015/07/warlords-1.2-overview-patch-notes/
     - date: 2015-06-25 00:52:57.571462
       posturl: http://dust514.com/news/2015/06/introducing-warlords-1.2-progression-system/
     - date: 2015-06-25 00:47:26.637294
@@ -1206,6 +1232,18 @@ rss_feeds:
   eve_dev:
     raw: false
     stories:
+    - date: 2015-07-22 01:29:18.123164
+      posturl: http://developers.eveonline.com/blog/article/image-server-cdn-changes/
+    - date: 2015-07-14 00:53:16.732092
+      posturl: http://developers.eveonline.com/blog/article/contact-labels/
+    - date: 2015-07-14 00:47:34.599821
+      posturl: http://developers.eveonline.com/blog/article/adding-bookmarks-to-the-api/
+    - date: 2015-07-10 21:06:07.223777
+      posturl: http://developers.eveonline.com/blog/article/alliance-contract-item-fix/
+    - date: 2015-07-09 01:04:24.684402
+      posturl: http://developers.eveonline.com/blog/article/coordinates-in-outpost-list/
+    - date: 2015-07-07 01:41:14.823509
+      posturl: http://developers.eveonline.com/blog/article/aegis-sovereignty-api-changes/
     - date: 2015-07-03 01:24:10.246267
       posturl: http://developers.eveonline.com/blog/article/minor-change-to-locations-xml-aspx/
     - date: 2015-05-16 01:49:58.472935
@@ -1260,6 +1298,54 @@ rss_feeds:
   eve_news:
     raw: false
     stories:
+    - date: 2015-07-29 03:04:04.835537
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/clarification-regarding-jump-clones-standings/
+    - date: 2015-07-29 02:15:00.009604
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/more-new-skins-available-in-the-new-eden-store/
+    - date: 2015-07-21 22:16:51.266867
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/alliance-tournament-xiii-prize-change/
+    - date: 2015-07-21 22:05:37.268290
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/selected-frigates-on-sale-in-the-new-eden-store/
+    - date: 2015-07-21 21:33:12.001901
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/skillpoint-gift-awarded/
+    - date: 2015-07-21 10:14:13.529262
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/extended-downtime-july-21st-2015/
+    - date: 2015-07-21 00:42:35.052848
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/join-the-mass-test-on-tuesday-july-21/
+    - date: 2015-07-18 03:24:17.931012
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/skillpoint-gift-for-extended-downtime-on-july-15th/
+    - date: 2015-07-17 02:37:24.331598
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/todays-mass-test-aborted/
+    - date: 2015-07-16 08:56:14.558056
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/important-issue-with-sovereignty-vulnerability-timers/
+    - date: 2015-07-15 04:54:24.510335
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/fifth-eve-vegas-ticket-draw-winner-announced/
+    - date: 2015-07-15 03:07:57.395469
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/important-sovereignty-bill-announcement/
+    - date: 2015-07-14 23:16:35.717654
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/join-the-mass-test-on-thursday-july-16-at-17-00/
+    - date: 2015-07-14 23:10:51.742852
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/more-skins-now-available-in-the-new-eden-store/
+    - date: 2015-07-14 22:15:47.908899
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/aegis-sovereignty-release-has-been-successfully-deployed/
+    - date: 2015-07-11 04:49:56.762406
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/aegis-sovereignty-to-be-deployed-on-july-14-from-11-00-to-12-15-utc/
+    - date: 2015-07-10 02:14:27.054919
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/join-us-at-eve-vegas-for-the-eve-vegas-2015-gaming-pub-night/
+    - date: 2015-07-08 02:19:35.849676
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/another-eve-vegas-ticket-draw-winner-announced/
+    - date: 2015-07-08 01:30:42.180178
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/temporary-market-orders-for-gallente-tactical-destroyer-skillbooks/
+    - date: 2015-07-08 00:20:03.440892
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/new-skins-now-available-in-the-new-eden-store/
+    - date: 2015-07-07 22:37:00.775542
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/aegis-extended-xml-api-downtime/
+    - date: 2015-07-07 21:36:43.396464
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/aegis-has-been-deployed-successfully-on-july-7/
+    - date: 2015-07-06 21:46:50.311631
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/early-downtime-for-aegis-deployment-july-7th-2015/
+    - date: 2015-07-03 23:41:47.758121
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/patch-notes-for-the-aegis-update-are-now-available/
     - date: 2015-07-01 23:19:18.052942
       posturl: http://community.eveonline.com/news/news-channels/eve-online-news/third-eve-vegas-ticket-draw-winner-announced/
     - date: 2015-06-25 04:49:47.216313
@@ -1880,6 +1966,10 @@ rss_feeds:
   eve_youtube:
     raw: false
     stories:
+    - date: 2015-07-25 04:31:30.094646
+      posturl: yt:video:lg6Fw9YJMTI
+    - date: 2015-07-15 19:51:32.530816
+      posturl: yt:video:OG-5CQeelaI
     - date: 2015-07-02 00:24:47.636662
       posturl: yt:video:iTA-ouSRq6k
     - date: 2015-06-20 02:13:07.407098
@@ -2498,6 +2588,20 @@ rss_feeds:
   game_news:
     raw: false
     stories:
+    - date: 2015-08-01 09:29:06.416967
+      posturl: http://community.eveonline.com/news/news-channels/world-news/cleanup-begins-in-aftermath-of-safizon-attack/
+    - date: 2015-07-26 06:42:00.179226
+      posturl: http://community.eveonline.com/news/news-channels/world-news/breaking-news-society-of-conscious-thought-vessel-downed-in-sarum-prime/
+    - date: 2015-07-26 03:33:27.942340
+      posturl: http://community.eveonline.com/news/news-channels/world-news/breaking-news-amarr-navy-capital-squadron-sighted-in-the-throne-worlds/
+    - date: 2015-07-21 22:11:08.509650
+      posturl: http://community.eveonline.com/news/news-channels/world-news/alliance-tournament-xiii-prize-changes/
+    - date: 2015-07-21 06:15:06.836216
+      posturl: http://community.eveonline.com/news/news-channels/world-news/empress-jamyl-i-visits-amarr-navy-headquarters/
+    - date: 2015-07-19 03:03:32.903901
+      posturl: http://community.eveonline.com/news/news-channels/world-news/navy-announce-imperial-keel-laying-ceremony-empress-confirmed-to-attend/
+    - date: 2015-07-15 03:57:46.719455
+      posturl: http://community.eveonline.com/news/news-channels/world-news/ded-confirms-death-of-tukoss-eifyr-executes-will/
     - date: 2015-06-27 05:29:49.071950
       posturl: http://community.eveonline.com/news/news-channels/world-news/capsuleers-refuse-tukoss-handover-situation-intensifies/
     - date: 2015-06-09 06:03:56.393735
@@ -2686,6 +2790,10 @@ rss_feeds:
   patch_notes:
     raw: false
     stories:
+    - date: 2015-07-11 03:33:55.216505
+      posturl: http://community.eveonline.com/news/patch-notes/patch-notes-for-aegis-sovereignty/
+    - date: 2015-07-03 23:25:13.709486
+      posturl: http://community.eveonline.com/news/patch-notes/patch-notes-for-aegis/
     - date: 2015-05-30 00:09:27.854008
       posturl: http://community.eveonline.com/news/patch-notes/patch-notes-for-carnyx/
     - date: 2015-04-25 03:38:23.212887
