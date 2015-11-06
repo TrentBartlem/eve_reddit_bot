@@ -242,7 +242,7 @@ class EVERedditBot():
         user = self.reddit.get_redditor(self.username)
         submitted = user.get_submitted(sort='new', limit=25)
         downvoted_submissions = [submission for submission in submitted if (
-            submission.ups - submission.downs) <= -4]
+            submission.ups - submission.downs) <= -1]
         
         if (downvoted_submissions):
             for submission in downvoted_submissions:
