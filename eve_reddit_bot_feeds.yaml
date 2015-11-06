@@ -233,6 +233,14 @@ rss_feeds:
     subreddit: eve
     type: Youtube
     url: https://www.youtube.com/feeds/videos.xml?user=CCPGAMES
+  academy_youtube:
+    raw: false
+    stories:
+    - date: 2000-04-29 02:50:13.996191
+      posturl: yt:video:4NcRBgQm1J4
+    subreddit: eve
+    type: Flight Academy
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCczUeYqoS7d40bkeWmJHXGw
   cpm1:
     raw: false
     stories:
@@ -268,6 +276,8 @@ rss_feeds:
   csm10_corbexx:
     raw: false
     stories:
+    - date: 2015-08-13 01:10:34.913109
+      posturl: tag:blogger.com,1999:blog-3313686641816452828.post-5909470340146965779
     - date: 2015-06-04 06:41:34.435921
       posturl: tag:blogger.com,1999:blog-3313686641816452828.post-8571022093709697173
     - date: 2015-05-23 05:47:09.044311
@@ -320,6 +330,8 @@ rss_feeds:
   csm10_endie:
     raw: false
     stories:
+    - date: 2015-08-14 00:32:17.492865
+      posturl: http://www.endie.net/wordpress/?p=332
     - date: 2015-06-17 22:05:44.112856
       posturl: http://www.endie.net/wordpress/?p=325
     subreddit: eve
@@ -327,13 +339,55 @@ rss_feeds:
     url: http://www.endie.net/wordpress/category/csm10/feed/
   csm10_fuzzy:
     raw: false
-    stories: []
+    stories:
+    - date: 2015-10-12 04:45:46.788667
+      posturl: https://www.fuzzwork.co.uk/?p=587
+    - date: 2015-09-18 07:16:02.712267
+      posturl: https://www.fuzzwork.co.uk/?p=583
+    - date: 2015-09-17 05:26:07.298322
+      posturl: https://www.fuzzwork.co.uk/?p=581
+    - date: 2015-09-16 11:05:32.726761
+      posturl: https://www.fuzzwork.co.uk/?p=578
+    - date: 2015-09-15 04:55:45.228837
+      posturl: https://www.fuzzwork.co.uk/?p=576
     subreddit: eve
     type: CSM10
     url: https://www.fuzzwork.co.uk/tag/csm10/feed/
   csm10_mike:
     raw: false
     stories:
+    - date: 2015-10-23 03:25:39.966055
+      posturl: https://mikeazariah.wordpress.com/?p=1710
+    - date: 2015-10-23 03:16:19.913632
+      posturl: https://mikeazariah.wordpress.com/?p=1722
+    - date: 2015-10-23 03:06:13.819824
+      posturl: https://mikeazariah.wordpress.com/?p=1727
+    - date: 2015-10-23 02:55:59.031652
+      posturl: https://mikeazariah.wordpress.com/?p=1733
+    - date: 2015-10-23 02:46:03.825598
+      posturl: https://mikeazariah.wordpress.com/?p=1748
+    - date: 2015-10-23 02:35:56.618745
+      posturl: https://mikeazariah.wordpress.com/?p=1757
+    - date: 2015-10-23 02:26:30.817009
+      posturl: https://mikeazariah.wordpress.com/?p=1760
+    - date: 2015-10-23 02:16:00.048818
+      posturl: https://mikeazariah.wordpress.com/?p=1762
+    - date: 2015-10-23 02:05:57.028175
+      posturl: https://mikeazariah.wordpress.com/?p=1764
+    - date: 2015-10-23 01:55:51.622875
+      posturl: https://mikeazariah.wordpress.com/?p=1766
+    - date: 2015-10-17 08:05:53.437500
+      posturl: http://mikeazariah.wordpress.com/?p=1766
+    - date: 2015-09-17 01:05:37.676659
+      posturl: http://mikeazariah.wordpress.com/?p=1764
+    - date: 2015-09-15 17:35:40.865734
+      posturl: http://mikeazariah.wordpress.com/?p=1762
+    - date: 2015-09-14 16:25:30.415410
+      posturl: http://mikeazariah.wordpress.com/?p=1760
+    - date: 2015-09-12 18:05:46.276562
+      posturl: http://mikeazariah.wordpress.com/?p=1757
+    - date: 2015-08-04 10:08:21.646104
+      posturl: http://mikeazariah.wordpress.com/?p=1748
     - date: 2015-06-16 18:42:05.006628
       posturl: http://mikeazariah.wordpress.com/?p=1733
     - date: 2015-05-29 03:36:14.531903
@@ -364,6 +418,18 @@ rss_feeds:
   csm10_sugar:
     raw: false
     stories:
+    - date: 2015-10-11 14:56:13.291250
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-5957557607132217791
+    - date: 2015-09-21 13:35:35.471424
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-8906171917396292646
+    - date: 2015-09-13 14:05:49.113917
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-5127737641593716000
+    - date: 2015-08-23 05:45:03.107117
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-7911687134899923129
+    - date: 2015-08-09 14:06:39.470869
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-6490511930450159668
+    - date: 2015-08-05 02:35:00.143416
+      posturl: tag:blogger.com,1999:blog-238324579504790.post-2341576377151151120
     - date: 2015-07-26 15:21:18.195197
       posturl: tag:blogger.com,1999:blog-238324579504790.post-1250936727669638682
     - date: 2015-07-19 19:37:24.324010
@@ -422,6 +488,18 @@ rss_feeds:
   csm10_thoric:
     raw: false
     stories:
+    - date: 2015-09-05 07:55:37.539936
+      posturl: http://denofiniquity.net/?p=74
+    - date: 2015-08-17 17:26:48.802211
+      posturl: http://denofiniquity.net/?p=70
+    - date: 2015-08-12 07:11:04.514688
+      posturl: http://denofiniquity.net/?p=68
+    - date: 2015-08-08 07:14:28.691490
+      posturl: http://denofiniquity.net/?p=65
+    - date: 2015-08-05 05:54:27.060192
+      posturl: http://denofiniquity.net/?p=63
+    - date: 2015-08-03 19:44:04.291675
+      posturl: http://denofiniquity.net/?p=58
     - date: 2015-07-10 07:50:30.414240
       posturl: http://denofiniquity.net/?p=55
     - date: 2015-05-24 14:16:47.166718
@@ -434,6 +512,56 @@ rss_feeds:
   dev_blogs:
     raw: false
     stories:
+    - date: 2015-11-06 01:26:09.395624
+      posturl: http://community.eveonline.com/news/dev-blogs/eve-economy-update-eve-vegas-2015-report/
+    - date: 2015-11-05 01:15:47.921370
+      posturl: http://community.eveonline.com/news/dev-blogs/scanning-and-probing-changes-in-parallax/
+    - date: 2015-10-31 07:05:50.018711
+      posturl: http://community.eveonline.com/news/dev-blogs/amarr-championships-rules-and-schedule/
+    - date: 2015-10-27 01:15:30.816090
+      posturl: http://community.eveonline.com/news/dev-blogs/building-your-citadel-one-block-at-a-time/
+    - date: 2015-10-25 19:46:01.580275
+      posturl: http://community.eveonline.com/news/dev-blogs/reworking-capital-ships-and-thus-it-begins/
+    - date: 2015-10-21 01:15:32.701901
+      posturl: http://community.eveonline.com/news/dev-blogs/the-crimson-harvest/
+    - date: 2015-10-17 02:36:12.898405
+      posturl: http://community.eveonline.com/news/dev-blogs/eve-vegas-2015-schedule-store-charity-events-more/
+    - date: 2015-10-16 01:15:56.644109
+      posturl: http://community.eveonline.com/news/dev-blogs/exploring-the-character-bazaar-skill-trading/
+    - date: 2015-10-15 02:45:50.847464
+      posturl: http://community.eveonline.com/news/dev-blogs/sovereignty-jump-fatigue-reductions-and-more-in-parallax-on-november-3/
+    - date: 2015-10-14 02:05:59.138798
+      posturl: http://community.eveonline.com/news/dev-blogs/tranquility-tech-3/
+    - date: 2015-10-13 02:55:48.252079
+      posturl: http://community.eveonline.com/news/dev-blogs/ccpizza-it-was-real/
+    - date: 2015-10-07 01:06:04.764610
+      posturl: http://community.eveonline.com/news/dev-blogs/testing-a-new-eve-launcher/
+    - date: 2015-10-03 05:55:55.945179
+      posturl: http://community.eveonline.com/news/dev-blogs/eve-online-roadmap-update-winter-2015-spring-2016/
+    - date: 2015-10-02 01:15:52.195048
+      posturl: http://community.eveonline.com/news/dev-blogs/multibuy-all-the-things/
+    - date: 2015-09-25 04:25:44.572805
+      posturl: http://community.eveonline.com/news/dev-blogs/announcing-amarr-championships/
+    - date: 2015-09-18 07:15:47.782921
+      posturl: http://community.eveonline.com/news/dev-blogs/looking-behind-and-looking-ahead-an-update-from-executive-producer-ccp-seagull/
+    - date: 2015-09-18 01:15:50.117276
+      posturl: http://community.eveonline.com/news/dev-blogs/citadels-sieges-and-you-v2/
+    - date: 2015-09-12 05:45:42.417017
+      posturl: http://community.eveonline.com/news/dev-blogs/next-set-of-sov-and-capital-movement-iterations/
+    - date: 2015-08-22 10:10:35.643477
+      posturl: http://community.eveonline.com/news/dev-blogs/community-spotlight-live-streaming-the-alliance-tournament-xiii/
+    - date: 2015-08-22 10:04:12.141163
+      posturl: http://community.eveonline.com/news/dev-blogs/designer-skins-to-please-your-eyes/
+    - date: 2015-08-14 01:05:18.067171
+      posturl: http://community.eveonline.com/news/dev-blogs/citadels-sieges-and-you/
+    - date: 2015-08-14 00:59:41.998395
+      posturl: http://community.eveonline.com/news/dev-blogs/i-feel-safe-in-citadel-city/
+    - date: 2015-08-12 00:24:36.978162
+      posturl: http://community.eveonline.com/news/dev-blogs/alliance-tournament-xiii-kicks-off/
+    - date: 2015-08-08 00:53:02.760946
+      posturl: http://community.eveonline.com/news/dev-blogs/behind-the-scenes-of-a-long-eve-online-downtime/
+    - date: 2015-08-06 02:08:48.292838
+      posturl: http://community.eveonline.com/news/dev-blogs/eve-euro-tour-2015-ccp-does-europe/
     - date: 2015-07-09 01:04:37.728105
       posturl: http://community.eveonline.com/news/dev-blogs/summer-of-sov-nullsec-pve-and-upgrades/
     - date: 2015-07-08 01:19:29.555714
@@ -848,6 +976,18 @@ rss_feeds:
   dust_featured_promotions:
     raw: false
     stories:
+    - date: 2015-10-13 16:55:48.609979
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2552929
+    - date: 2015-09-22 13:15:39.765398
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2533197
+    - date: 2015-09-15 18:45:47.407688
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2528046
+    - date: 2015-09-08 18:35:36.478917
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2522132
+    - date: 2015-08-26 17:31:00.399266
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2511689
+    - date: 2015-08-20 20:25:14.080896
+      posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2505900
     - date: 2015-07-29 16:53:10.901324
       posturl: http://dustsearch.com/feed/forum/1263/dustsearch/guid/2480883
     - date: 2015-06-24 20:49:55.044872
@@ -1028,6 +1168,22 @@ rss_feeds:
   dust_news:
     raw: false
     stories:
+    - date: 2015-10-30 13:55:57.153415
+      posturl: http://dust514.com/news/2015/10/new-dust-514-wallpaper-13/
+    - date: 2015-10-20 12:12:01.987514
+      posturl: http://dust514.com/news/2015/10/new-event-the-crimson-harvest/
+    - date: 2015-09-21 23:06:06.418504
+      posturl: http://dust514.com/news/2015/09/developer-spotlight-jiawei-lin-ccp-alpaca/
+    - date: 2015-09-15 20:15:28.721980
+      posturl: http://dust514.com/news/2015/09/new-dust-514-wallpaper-12/
+    - date: 2015-09-11 20:35:26.941755
+      posturl: http://dust514.com/news/2015/09/new-event-amarr-challenge/
+    - date: 2015-08-20 12:11:48.653461
+      posturl: http://dust514.com/news/2015/08/new-dust-514-wallpaper-11/
+    - date: 2015-08-19 11:48:10.576322
+      posturl: http://dust514.com/news/2015/08/developer-spotlight-gergely-guttmann-ccp-archduke/
+    - date: 2015-08-17 22:24:26.080063
+      posturl: http://dust514.com/news/2015/08/cpm-2-announcement/
     - date: 2015-07-17 03:32:34.475120
       posturl: http://dust514.com/news/2015/07/new-dust-514-wallpaper-10/
     - date: 2015-07-15 03:13:41.758062
@@ -1232,6 +1388,14 @@ rss_feeds:
   eve_dev:
     raw: false
     stories:
+    - date: 2015-10-14 23:25:51.723351
+      posturl: http://developers.eveonline.com/blog/article/read-write-of-saved-fits-now-on-sisi/
+    - date: 2015-10-14 07:26:20.966815
+      posturl: http://developers.eveonline.com/blog/article/a-note-on-crest-rate-limits/
+    - date: 2015-08-19 02:49:36.356033
+      posturl: http://developers.eveonline.com/blog/article/cache-timer-for-skilltree-reduced-1/
+    - date: 2015-08-08 01:37:16.881663
+      posturl: http://developers.eveonline.com/blog/article/chat-channel-info-available-in-xml-api/
     - date: 2015-07-22 01:29:18.123164
       posturl: http://developers.eveonline.com/blog/article/image-server-cdn-changes/
     - date: 2015-07-14 00:53:16.732092
@@ -1298,6 +1462,158 @@ rss_feeds:
   eve_news:
     raw: false
     stories:
+    - date: 2015-11-04 02:55:59.005721
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/parallax-known-issue-with-mptc/
+    - date: 2015-11-04 00:15:47.837680
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/raata-sunset-skins-now-available-on-all-tech-i-amarr-hulls/
+    - date: 2015-11-03 22:45:43.038060
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/parallax-has-been-released-successfully/
+    - date: 2015-11-03 00:34:34.583629
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/beta-launcher-available-for-mac/
+    - date: 2015-10-31 03:45:32.946899
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/parallax-will-release-on-tuesday-november-3rd-2015/
+    - date: 2015-10-31 03:05:39.845438
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/final-weekend-of-the-crimson-harvest/
+    - date: 2015-10-29 21:35:37.416138
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/amarr-championship-full-teams/
+    - date: 2015-10-29 19:45:36.385642
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/o7-airs-thursday-at-20-00-utc-oct-29/
+    - date: 2015-10-28 23:36:00.179533
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/o7-airs-thursday-at-20-00-utc-oct-29-tomorrow/
+    - date: 2015-10-27 22:15:42.371224
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/dreadnought-skins-on-sale-with-up-to-30-discount/
+    - date: 2015-10-26 23:25:25.402882
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/final-mass-test-for-brain-in-a-box-on-october-27-dont-miss-it/
+    - date: 2015-10-23 22:45:59.280086
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/updates-to-the-eve-launcher-beta/
+    - date: 2015-10-23 22:06:04.528702
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/the-crimson-harvest-special-offers-in-the-new-eden-store-and-plex/
+    - date: 2015-10-23 00:43:56.086159
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/raata-sunset-skins-now-available-on-caldari-tech-2-ships/
+    - date: 2015-10-22 02:25:33.290432
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/the-crimson-harvest-blood-raider-accelerator-fixed-and-extra-skillpoints/
+    - date: 2015-10-21 08:45:27.063624
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/eve-vegas-2015-is-sold-out/
+    - date: 2015-10-21 01:15:26.585661
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/blood-raider-ca-ui-issue/
+    - date: 2015-10-19 21:46:10.520382
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/join-the-mass-test-on-tuesday-october-20/
+    - date: 2015-10-17 03:36:43.281444
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/amarr-championships-contenders/
+    - date: 2015-10-17 03:15:54.279685
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/new-ships-coming-in-winter-2015/
+    - date: 2015-10-14 21:25:34.364156
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/fanfest-2016-cosplay-contest/
+    - date: 2015-10-13 22:06:10.091129
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/minmatar-battleship-skins-on-sale-in-the-new-eden-store/
+    - date: 2015-10-13 02:56:06.844039
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/notice-concerning-scams-citing-the-wallet-api/
+    - date: 2015-10-13 02:06:17.293222
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/join-the-mass-test-on-thursday-october-15-at-10-30-utc/
+    - date: 2015-10-10 02:05:57.499511
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/skillpoint-grant-for-new-characters/
+    - date: 2015-10-08 00:06:24.349329
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/eve-vegas-schedule-preview/
+    - date: 2015-10-07 01:16:20.705550
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/caldari-blue-tiger-skins-now-available-in-the-new-eden-store/
+    - date: 2015-10-07 01:05:51.914114
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/eve-london-is-coming-november-21st-2015/
+    - date: 2015-10-06 00:26:09.644026
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/eve-vegas-is-almost-sold-out/
+    - date: 2015-10-04 03:36:00.275013
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/csm-x-summit-i-day-four-meeting-minutes/
+    - date: 2015-10-03 06:55:39.260631
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/huge-development-update-2015-through-early-spring-2016/
+    - date: 2015-09-30 21:45:47.942359
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/mass-test-on-singularity-october-1st/
+    - date: 2015-09-30 00:16:00.899547
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/blue-tiger-skins-now-available-in-the-new-eden-store/
+    - date: 2015-09-29 23:25:37.576181
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/multibuy-has-been-disabled/
+    - date: 2015-09-24 21:46:06.047248
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/vanguard-patch-notes-now-available/
+    - date: 2015-09-22 21:55:45.116855
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/gallente-battleship-skins-on-sale-in-the-new-eden-store/
+    - date: 2015-09-22 03:35:48.114264
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/fanfest-2016-tickets-are-now-available-for-plex/
+    - date: 2015-09-22 00:35:53.983075
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/final-eve-vegas-ticket-holder-draw-winner-announced/
+    - date: 2015-09-21 23:25:50.410560
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/join-the-mass-test-tuesday-september-22-at-17-00-utc/
+    - date: 2015-09-18 08:45:29.058312
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/csm-x-summit-i-day-three-meeting-minutes/
+    - date: 2015-09-17 19:15:32.340476
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/o7-show-live-tonight-at-20-00-eve-time/
+    - date: 2015-09-17 09:55:37.856742
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/csm-x-summit-i-day-two-meeting-minutes/
+    - date: 2015-09-16 07:06:04.053895
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/csm-x-summit-i-day-one-meeting-minutes/
+    - date: 2015-09-15 21:35:40.643757
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/new-skins-apparel-available-in-the-new-eden-store/
+    - date: 2015-09-12 08:05:22.488293
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/o7-returns-september-17/
+    - date: 2015-09-12 02:55:42.748086
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/yet-another-eve-vegas-ticket-holder-prize-draw-winner-announced/
+    - date: 2015-09-12 02:45:35.981544
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/mass-test-on-duality-september-15/
+    - date: 2015-09-11 01:05:28.841241
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/windows-xp-and-windows-vista-moving-to-limited-support-on-september-15th-2015/
+    - date: 2015-09-10 23:45:28.770710
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/extended-daily-downtime-september-11th-2015/
+    - date: 2015-09-10 04:25:49.334838
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/eve-euro-tour-overview/
+    - date: 2015-09-08 22:05:46.143350
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/amarr-battleship-skins-now-on-sale-in-the-new-eden-store/
+    - date: 2015-09-05 03:35:43.238087
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/another-eve-vegas-ticket-holder-draw-winner-announced/
+    - date: 2015-09-02 20:55:48.655226
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/eve-online-starter-packs-available-with-humble-bundle/
+    - date: 2015-09-02 02:45:49.792797
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/exploit-notification-delaying-concord-response/
+    - date: 2015-09-02 02:35:33.922437
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/valklear-glory-designer-skins-now-available/
+    - date: 2015-09-01 21:15:47.085050
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/eve-vegas-pub-crawl-returns/
+    - date: 2015-08-31 23:55:49.597394
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/congratulations-to-the-alliance-tournament-xiii-winner/
+    - date: 2015-08-29 03:58:44.385301
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/eve-online-is-currently-available-in-the-humble-store/
+    - date: 2015-08-28 21:25:13.216516
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/another-eve-vegas-2015-ticket-sales-draw-winner-announced/
+    - date: 2015-08-28 05:38:41.205671
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/defence-of-the-throne-worlds-content-disabled/
+    - date: 2015-08-26 00:49:47.571314
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/new-designer-skins-now-available-in-the-new-eden-store/
+    - date: 2015-08-25 03:21:44.001868
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/patching-and-connectivity-issues/
+    - date: 2015-08-24 21:48:40.582086
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/fanfest-2016-early-bird-tickets-almost-sold-out/
+    - date: 2015-08-22 21:22:10.208360
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/galatea-update-to-be-deployed-on-august-25/
+    - date: 2015-08-22 10:16:33.415903
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/more-announcements-for-eve-vegas/
+    - date: 2015-08-22 10:11:05.306585
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/alliance-tournament-xiii-weekend-2/
+    - date: 2015-08-22 10:04:40.301531
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/another-eve-vegas-ticket-holder-prize-draw-winner-announced/
+    - date: 2015-08-19 02:55:00.508432
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/eve-vegas-2015-ticket-sales-draw-round-2/
+    - date: 2015-08-18 23:28:48.991088
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/destroyer-skin-sale-in-the-new-eden-store/
+    - date: 2015-08-18 02:05:49.825713
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/join-the-mass-test-this-tuesday-august-18/
+    - date: 2015-08-17 20:25:14.334671
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/the-angel-project-turns-three/
+    - date: 2015-08-13 00:04:05.407286
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/join-the-mass-test-this-thursday-august-13/
+    - date: 2015-08-11 21:25:40.056330
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/twenty-new-capital-skins-now-available-in-the-new-eden-store/
+    - date: 2015-08-06 01:02:17.184514
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/ten-cruiser-skins-on-sale-in-the-new-eden-store/
+    - date: 2015-08-05 20:08:04.678910
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/join-the-mass-test-this-thursday-august-6/
+    - date: 2015-08-03 23:08:42.349061
+      posturl: http://community.eveonline.com/news/news-channels/eve-online-news/introducing-gunjack/
     - date: 2015-07-29 03:04:04.835537
       posturl: http://community.eveonline.com/news/news-channels/eve-online-news/clarification-regarding-jump-clones-standings/
     - date: 2015-07-29 02:15:00.009604
@@ -1966,6 +2282,120 @@ rss_feeds:
   eve_youtube:
     raw: false
     stories:
+    - date: 2015-11-04 05:55:41.487368
+      posturl: yt:video:IsbC6-NFyIw
+    - date: 2015-11-04 05:45:39.392258
+      posturl: yt:video:vymoCsyakRk
+    - date: 2015-11-04 05:25:44.231663
+      posturl: yt:video:I5RUfo2zpqA
+    - date: 2015-10-30 23:06:06.300592
+      posturl: yt:video:_tedvzH6Xnc
+    - date: 2015-10-30 06:15:33.270429
+      posturl: yt:video:Ql99CcIqyMc
+    - date: 2015-10-30 02:35:38.338581
+      posturl: yt:video:jgFG7ShSNew
+    - date: 2015-10-26 09:36:00.039891
+      posturl: yt:video:a-M1iB0ffxc
+    - date: 2015-10-26 09:25:40.867539
+      posturl: yt:video:VoFjvWSwAFc
+    - date: 2015-10-25 11:05:33.689574
+      posturl: yt:video:ZZSCaswtcsA
+    - date: 2015-10-25 03:05:17.083123
+      posturl: yt:video:1faixKj_lWI
+    - date: 2015-10-25 02:55:52.154884
+      posturl: yt:video:FlbQD40b3Hk
+    - date: 2015-10-25 02:45:52.864866
+      posturl: yt:video:j05Bl9ELEUc
+    - date: 2015-10-25 02:35:38.305994
+      posturl: yt:video:iKHWkWUjiGM
+    - date: 2015-10-25 02:25:45.559513
+      posturl: yt:video:WlCaw9CbWHA
+    - date: 2015-10-25 02:15:29.478802
+      posturl: yt:video:ATQJpo2rZ_U
+    - date: 2015-10-25 02:06:01.811526
+      posturl: yt:video:OPbMwne4X1Q
+    - date: 2015-10-25 01:55:45.468247
+      posturl: yt:video:FXnrhcqSJhM
+    - date: 2015-10-25 01:45:50.566794
+      posturl: yt:video:d345oHvTaHY
+    - date: 2015-10-25 01:35:30.408969
+      posturl: yt:video:5gwBeyg45eU
+    - date: 2015-10-25 01:26:12.110544
+      posturl: yt:video:tIms0J9-qSY
+    - date: 2015-10-25 01:15:45.989566
+      posturl: yt:video:j3qurW_oV3Y
+    - date: 2015-10-21 01:35:42.693057
+      posturl: yt:video:4qXrOLO7NwU
+    - date: 2015-10-17 03:26:20.944359
+      posturl: yt:video:X1R3tBoWtmc
+    - date: 2015-10-03 06:55:50.111394
+      posturl: yt:video:oFc4jQghYDk
+    - date: 2015-10-03 06:45:50.656284
+      posturl: yt:video:uJhHu_i7B0Q
+    - date: 2015-10-03 06:36:02.623099
+      posturl: yt:video:QBRqG9lSChw
+    - date: 2015-10-03 06:26:11.995382
+      posturl: yt:video:h5y81Whnu1w
+    - date: 2015-10-03 06:15:57.527501
+      posturl: yt:video:yFXiE9Rmb1s
+    - date: 2015-10-01 05:46:02.496355
+      posturl: yt:video:4Njt1KrmV-c
+    - date: 2015-10-01 05:35:58.155395
+      posturl: yt:video:15MNyOVzsOQ
+    - date: 2015-10-01 05:26:02.029695
+      posturl: yt:video:niMdzAd3g8I
+    - date: 2015-10-01 05:15:57.886187
+      posturl: yt:video:oyFLdYR9I-A
+    - date: 2015-10-01 05:06:07.010310
+      posturl: yt:video:MQqvFTMPx8Q
+    - date: 2015-10-01 04:55:49.754622
+      posturl: yt:video:VUVylQyC0dM
+    - date: 2015-10-01 04:46:07.135946
+      posturl: yt:video:KFuvr-ILKQg
+    - date: 2015-10-01 04:35:49.003011
+      posturl: yt:video:sgw2LTAvrtE
+    - date: 2015-10-01 04:25:29.886095
+      posturl: yt:video:GMce1ztrURA
+    - date: 2015-10-01 04:15:55.394108
+      posturl: yt:video:FpqwUBMc4cE
+    - date: 2015-10-01 04:05:47.801178
+      posturl: yt:video:5avnCqQ2CRc
+    - date: 2015-10-01 03:55:41.742825
+      posturl: yt:video:CzJv498dhrk
+    - date: 2015-10-01 03:45:53.525307
+      posturl: yt:video:_ltkMQDO3I4
+    - date: 2015-10-01 03:35:51.768052
+      posturl: yt:video:lTRcSlJpzaE
+    - date: 2015-10-01 03:25:42.169346
+      posturl: yt:video:Y8k56Fe8VrQ
+    - date: 2015-09-30 01:05:44.384457
+      posturl: yt:video:2AbxlFJHt6M
+    - date: 2015-09-19 02:55:24.654760
+      posturl: yt:video:EkG3Thu2Gio
+    - date: 2015-09-19 00:35:57.208576
+      posturl: yt:video:u_S00gzNtJ4
+    - date: 2015-09-18 07:35:38.232013
+      posturl: yt:video:Qc_--zavBME
+    - date: 2015-09-11 01:05:35.925955
+      posturl: yt:video:Buqs7Dp-Gso
+    - date: 2015-09-11 00:55:43.112024
+      posturl: yt:video:YwcrfVWfNQk
+    - date: 2015-09-11 00:45:51.491140
+      posturl: yt:video:3p00wNMSIrc
+    - date: 2015-09-11 00:35:35.049254
+      posturl: yt:video:PYE8eCXfcM8
+    - date: 2015-09-02 05:05:51.796399
+      posturl: yt:video:SLfcvcyeE70
+    - date: 2015-08-29 05:19:32.792104
+      posturl: yt:video:-x2eJLBu4BQ
+    - date: 2015-08-29 01:48:17.242570
+      posturl: yt:video:Lmeo9vfpzHQ
+    - date: 2015-08-29 00:49:08.556256
+      posturl: yt:video:5jgnCyfFVWo
+    - date: 2015-08-22 10:04:21.996442
+      posturl: yt:video:46aRYr0IZi0
+    - date: 2015-08-15 02:03:10.989021
+      posturl: yt:video:AXBFbCtjkAg
     - date: 2015-07-25 04:31:30.094646
       posturl: yt:video:lg6Fw9YJMTI
     - date: 2015-07-15 19:51:32.530816
@@ -2588,6 +3018,36 @@ rss_feeds:
   game_news:
     raw: false
     stories:
+    - date: 2015-10-29 20:35:37.323064
+      posturl: http://community.eveonline.com/news/news-channels/world-news/not-a-whiff-of-evidence-to-explain-fedo-colony/
+    - date: 2015-10-22 00:05:50.843181
+      posturl: http://community.eveonline.com/news/news-channels/world-news/maintenance-crews-sniff-out-odors-source/
+    - date: 2015-10-17 23:46:05.936204
+      posturl: http://community.eveonline.com/news/news-channels/world-news/7th-fleet-re-deployed-after-multiple-blood-raider-attacks/
+    - date: 2015-10-16 22:45:54.581763
+      posturl: http://community.eveonline.com/news/news-channels/world-news/revival-of-shatholsyn-ritual-confirmed/
+    - date: 2015-09-25 04:25:55.030793
+      posturl: http://community.eveonline.com/news/news-channels/world-news/house-khanid-inclusion-announced-as-imperial-succession-committee-lays-out-rules/
+    - date: 2015-09-21 03:50:04.857772
+      posturl: http://community.eveonline.com/news/news-channels/world-news/amarr-empire-celebrates-the-reign-of-empress-jamyl-i-with-state-funeral/
+    - date: 2015-09-16 22:05:59.021318
+      posturl: http://community.eveonline.com/news/news-channels/world-news/state-funeral-of-empress-jamyl-i-announced-by-court-chamberlain/
+    - date: 2015-08-26 01:06:03.022757
+      posturl: http://community.eveonline.com/news/news-channels/world-news/breaking-amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom/
+    - date: 2015-08-25 21:35:44.190500
+      posturl: http://community.eveonline.com/news/news-channels/world-news/breaking-news-amarr-empire-declares-war-on-drifters/
+    - date: 2015-08-23 04:49:44.296289
+      posturl: http://community.eveonline.com/news/news-channels/world-news/court-chamberlain-confirms-succession-trials/
+    - date: 2015-08-22 23:58:13.765314
+      posturl: http://community.eveonline.com/news/news-channels/world-news/concord-and-new-eden-powers-react-to-death-of-empress-jamyl/
+    - date: 2015-08-22 10:11:09.134917
+      posturl: http://community.eveonline.com/news/news-channels/world-news/amarr-navy-begins-preparation-for-flagship-handover/
+    - date: 2015-08-22 10:05:03.834471
+      posturl: http://community.eveonline.com/news/news-channels/world-news/court-chamberlain-confirms-death-of-empress-jamyl-i/
+    - date: 2015-08-16 07:48:01.794501
+      posturl: http://community.eveonline.com/news/news-channels/world-news/imperial-navy-forces-push-back-second-drifter-advance/
+    - date: 2015-08-12 01:19:06.648265
+      posturl: http://community.eveonline.com/news/news-channels/world-news/flight-trials-begin-for-imperial-flagship/
     - date: 2015-08-01 09:29:06.416967
       posturl: http://community.eveonline.com/news/news-channels/world-news/cleanup-begins-in-aftermath-of-safizon-attack/
     - date: 2015-07-26 06:42:00.179226
@@ -2790,6 +3250,12 @@ rss_feeds:
   patch_notes:
     raw: false
     stories:
+    - date: 2015-10-31 03:25:32.535666
+      posturl: http://community.eveonline.com/news/patch-notes/patch-notes-for-parallax/
+    - date: 2015-09-24 21:46:12.848264
+      posturl: http://community.eveonline.com/news/patch-notes/patch-notes-for-vanguard/
+    - date: 2015-08-22 21:11:34.412547
+      posturl: http://community.eveonline.com/news/patch-notes/patch-notes-for-galatea/
     - date: 2015-07-11 03:33:55.216505
       posturl: http://community.eveonline.com/news/patch-notes/patch-notes-for-aegis-sovereignty/
     - date: 2015-07-03 23:25:13.709486
@@ -2836,6 +3302,42 @@ rss_feeds:
   valkyrie_twitter:
     raw: true
     stories:
+    - date: 2015-11-06 21:23:03.586916
+      posturl: https://twitter.com/EVEValkyrie/status/651788954598027264
+    - date: 2015-11-06 21:12:40.145066
+      posturl: https://twitter.com/EVEValkyrie/status/652587691066945540
+    - date: 2015-11-06 21:06:07.919327
+      posturl: https://twitter.com/EVEValkyrie/status/654345043524890624
+    - date: 2015-11-06 20:55:44.269408
+      posturl: https://twitter.com/CCPGames/status/655068399740039168
+    - date: 2015-11-06 20:49:13.810613
+      posturl: https://twitter.com/EVEValkyrie/status/657714101603430400
+    - date: 2015-11-06 20:38:48.448141
+      posturl: https://twitter.com/EVEValkyrie/status/657716850730663940
+    - date: 2015-11-06 20:32:20.625975
+      posturl: https://twitter.com/EVEValkyrie/status/657717758038253568
+    - date: 2015-11-06 20:22:00.638345
+      posturl: https://twitter.com/EVEValkyrie/status/657718371220344832
+    - date: 2015-11-06 20:15:28.127851
+      posturl: https://twitter.com/webspaceships/status/657719112882237440
+    - date: 2015-11-06 20:05:06.020801
+      posturl: https://twitter.com/Accelerwraith/status/658131319453409280
+    - date: 2015-11-06 19:58:38.232428
+      posturl: https://twitter.com/EVEValkyrie/status/658473667593113600
+    - date: 2015-11-06 19:48:16.310329
+      posturl: https://twitter.com/PalmerLuckey/status/658404160438538240
+    - date: 2015-11-06 19:41:43.171176
+      posturl: https://twitter.com/PalmerLuckey/status/658404783716306944
+    - date: 2015-09-21 01:56:50.847966
+      posturl: https://twitter.com/DarkHorseComics/status/645039654907940865
+    - date: 2015-08-16 22:48:07.317971
+      posturl: https://twitter.com/HilmarVeigar/status/632160687159181312
+    - date: 2015-08-15 22:43:11.528260
+      posturl: https://twitter.com/EVEValkyrie/status/632237291063394305
+    - date: 2015-08-08 22:30:25.880822
+      posturl: https://twitter.com/EVEValkyrie/status/629723476727844864
+    - date: 2015-08-04 22:16:43.879284
+      posturl: https://twitter.com/EVEGunjack/status/628190495735463936
     - date: 2015-06-19 03:14:26.510412
       posturl: https://twitter.com/ItsNej/status/611256709001125890
     - date: 2015-06-18 03:26:17.077519
@@ -3072,6 +3574,8 @@ rss_feeds:
   valkyrie_youtube:
     raw: false
     stories:
+    - date: 2015-10-08 02:36:06.349212
+      posturl: yt:video:gAuKc-vg32A
     - date: 2015-06-17 12:38:31.081440
       posturl: yt:video:-XzMLg-yA6Q
     - date: 2015-04-22 22:16:09.580057
